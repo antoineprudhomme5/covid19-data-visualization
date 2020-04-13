@@ -7,6 +7,20 @@ let showGlobalData = false;
 const globalDataToggleBtnEl = document.getElementById("globalDataToggleBtn");
 globalDataToggleBtnEl.textContent = showGlobalDataLabel;
 
+const countriesEl = document.getElementById("countries");
+countries.forEach((country) => {
+  const checkboxEl = document.createElement("input");
+  checkboxEl.type = "checkbox";
+  checkboxEl.name = country;
+  checkboxEl.value = country;
+
+  const liEl = document.createElement("li");
+
+  liEl.appendChild(checkboxEl);
+  liEl.innerHTML = liEl.innerHTML + country;
+  countriesEl.appendChild(liEl);
+});
+
 const options = {};
 
 const data = {

@@ -3,13 +3,36 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="index.css" />
     <title>COVID19 visualization</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
   </head>
 
   <body>
-    <canvas id="myChart"></canvas>
-    <button id="globalDataToggleBtn"></button>
+    <div class="container">
+      <div class="left">
+        <button id="globalDataToggleBtn"></button>
+        <div>
+          <ul id="countries"></ul>
+        </div>
+      </div>
+      <div class="right">
+        <div class="top">
+          <h1>COVID19 visualization</h1>
+        </div>
+        <div class="middle">
+          <canvas id="myChart"></canvas>
+        </div>
+        <div class="bottom">
+          Public data from french governement. See
+          <a
+            target="_blank"
+            href="https://www.data.gouv.fr/fr/datasets/coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne/"
+            >https://www.data.gouv.fr/fr/datasets/coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne/</a
+          >
+        </div>
+      </div>
+    </div>
     <script src="./data/all.js"></script>
     <script src="./colorsChart.js"></script>
     <script src="./data.js"></script>

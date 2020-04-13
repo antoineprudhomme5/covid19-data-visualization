@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+.container {
+  height: 100%;
+}
+
+.container {
+  display: block;
+}
+
+.left,
+.rigth {
+  display: block;
+  height: 100%;
+  max-height: 100%;
+  overflow: scroll;
+}
+
+.left {
+  width: 20%;
+  float: left;
+}
+
+.right {
+  width: 80%;
+  float: right;
+  height: 100%;
+}
+
+.right .top,
+.right .middle,
+.right .bottom {
+  display: block;
+}
+
+.right .top {
+  height: 100px;
+}
+.right .top h1 {
+  margin: 0;
+  line-height: 100px;
+}
+
+.right .bottom {
+  position: absolute;
+  bottom: 0;
+  height: 50px;
+  line-height: 50px;
+}
+
+#countries {
+}
