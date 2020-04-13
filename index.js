@@ -1,5 +1,7 @@
 const ctx = document.getElementById("myChart");
 
+const defaultCountry = 'France';
+
 const showGlobalDataLabel = "Show global data";
 const hideGlobalDataLabel = "Hide global data";
 
@@ -22,11 +24,41 @@ countries.forEach((country) => {
   countriesEl.appendChild(liEl);
 });
 
+document.querySelector(
+  `input[value="${defaultCountry}"]`
+).checked = true;
+
+function buildCountryDatasets(country, colorIndex = 0) {
+  return [
+    {
+      label: `Number of deaths in ${country}`,
+      backgroundColor: colorCharts[colorIndex].deaths,
+      borderColor: colorCharts[colorIndex].deaths,
+      data: dataByCountry[country].map(({ deaths }) => deaths),
+      fill: false,
+    },
+    {
+      label: `Number of healings in ${country}`,
+      backgroundColor: colorCharts[colorIndex].healings,
+      borderColor: colorCharts[colorIndex].healings,
+      data: dataByCountry[country].map(({ healings }) => healings),
+      fill: false,
+    },
+    {
+      label: `Number of infections in ${country}`,
+      backgroundColor: colorCharts[colorIndex].infections,
+      borderColor: colorCharts[colorIndex].infections,
+      data: dataByCountry[country].map(({ infections }) => infections),
+      fill: false,
+    }
+  ];
+}
+
 const options = {};
 
 const data = {
   labels: xLabels,
-  datasets: [],
+  datasets: buildCountryDatasets(defaultCountry),
 };
 
 const config = {
@@ -64,26 +96,8 @@ function handleClickOnCountryCheckbox(el) {
     const countries = countriesCheckedEl.map((el) => el.value);
     const datasets = [];
     countries.forEach((country, i) => {
-      datasets.push({
-        label: `Number of deaths in ${country}`,
-        backgroundColor: colorCharts[i].deaths,
-        borderColor: colorCharts[i].deaths,
-        data: dataByCountry[country].map(({ deaths }) => deaths),
-        fill: false,
-      });
-      datasets.push({
-        label: `Number of healings in ${country}`,
-        backgroundColor: colorCharts[i].healings,
-        borderColor: colorCharts[i].healings,
-        data: dataByCountry[country].map(({ healings }) => healings),
-        fill: false,
-      });
-      datasets.push({
-        label: `Number of infections in ${country}`,
-        backgroundColor: colorCharts[i].infections,
-        borderColor: colorCharts[i].infections,
-        data: dataByCountry[country].map(({ infections }) => infections),
-        fill: false,
+      buildCountryDatasets(country, i).forEach((countryDataset) => {
+        datasets.push(countryDataset);
       });
     });
     config.data.datasets = datasets;
