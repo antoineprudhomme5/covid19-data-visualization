@@ -22,30 +22,11 @@ countries.forEach((country) => {
   countriesEl.appendChild(liEl);
 });
 
-function handleClickOnCountryCheckbox(el) {
-  const nbChecked = document.querySelectorAll(
-    'input[class="country_choice"]:checked'
-  ).length;
-  if (nbChecked === 3) {
-    el.checked = false;
-  }
-}
-
-Array.from(document.getElementsByClassName("country_choice")).map((el) => {
-  el.addEventListener("click", (event) => {
-    handleClickOnCountryCheckbox(event.target);
-  });
-});
-
 const options = {};
 
 const data = {
   labels: xLabels,
-  datasets: [
-    frenchDeathsDataset,
-    frenchHealingsDataset,
-    frenchInfectionsDataset,
-  ],
+  datasets: [],
 };
 
 const config = {
@@ -60,21 +41,58 @@ globalDataToggleBtnEl.addEventListener("click", () => {
   showGlobalData = !showGlobalData;
   if (showGlobalData) {
     (config.data.datasets = [
-      frenchDeathsDataset,
-      frenchHealingsDataset,
-      frenchInfectionsDataset,
       globalDeathsDataset,
       globalHealingsDataset,
       globalInfectionsDataset,
     ]),
       (globalDataToggleBtnEl.textContent = hideGlobalDataLabel);
   } else {
-    config.data.datasets = [
-      frenchDeathsDataset,
-      frenchHealingsDataset,
-      frenchInfectionsDataset,
-    ];
+    config.data.datasets = [];
     globalDataToggleBtnEl.textContent = showGlobalDataLabel;
   }
   myLineChart.update();
+});
+
+function handleClickOnCountryCheckbox(el) {
+  const countriesCheckedEl = Array.from(document.querySelectorAll(
+    'input[class="country_choice"]:checked'
+  ));
+  const nbChecked = countriesCheckedEl.length;
+  if (nbChecked === 3) {
+    el.checked = false;
+  } else {
+    const countries = countriesCheckedEl.map((el) => el.value);
+    const datasets = [];
+    countries.forEach((country, i) => {
+      datasets.push({
+        label: `Number of deaths in ${country}`,
+        backgroundColor: colorCharts[i].deaths,
+        borderColor: colorCharts[i].deaths,
+        data: dataByCountry[country].map(({ deaths }) => deaths),
+        fill: false,
+      });
+      datasets.push({
+        label: `Number of healings in ${country}`,
+        backgroundColor: colorCharts[i].healings,
+        borderColor: colorCharts[i].healings,
+        data: dataByCountry[country].map(({ healings }) => healings),
+        fill: false,
+      });
+      datasets.push({
+        label: `Number of infections in ${country}`,
+        backgroundColor: colorCharts[i].infections,
+        borderColor: colorCharts[i].infections,
+        data: dataByCountry[country].map(({ infections }) => infections),
+        fill: false,
+      });
+    });
+    config.data.datasets = datasets;
+    myLineChart.update();
+  }
+}
+
+Array.from(document.getElementsByClassName("country_choice")).map((el) => {
+  el.addEventListener("click", (event) => {
+    handleClickOnCountryCheckbox(event.target);
+  });
 });
