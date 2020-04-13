@@ -54,6 +54,27 @@ function buildCountryDatasets(country, colorIndex = 0) {
   ];
 }
 
+function buildDatasetsForSelectedCountries() {
+  const countriesCheckedEl = Array.from(document.querySelectorAll(
+    'input[class="country_choice"]:checked'
+  ));
+  const countries = countriesCheckedEl.map((el) => el.value);
+  const datasets = [];
+  countries.forEach((country, i) => {
+    buildCountryDatasets(country, i).forEach((countryDataset) => {
+      datasets.push(countryDataset);
+    });
+  });
+
+  if (showGlobalData) {
+    datasets.push(globalDeathsDataset);
+    datasets.push(globalHealingsDataset);
+    datasets.push(globalInfectionsDataset);
+  }
+
+  return datasets;
+}
+
 const options = {};
 
 const data = {
@@ -72,16 +93,11 @@ const myLineChart = new Chart(ctx, config);
 globalDataToggleBtnEl.addEventListener("click", () => {
   showGlobalData = !showGlobalData;
   if (showGlobalData) {
-    (config.data.datasets = [
-      globalDeathsDataset,
-      globalHealingsDataset,
-      globalInfectionsDataset,
-    ]),
-      (globalDataToggleBtnEl.textContent = hideGlobalDataLabel);
+    globalDataToggleBtnEl.textContent = hideGlobalDataLabel;
   } else {
-    config.data.datasets = [];
     globalDataToggleBtnEl.textContent = showGlobalDataLabel;
   }
+  config.data.datasets = buildDatasetsForSelectedCountries();
   myLineChart.update();
 });
 
@@ -93,14 +109,7 @@ function handleClickOnCountryCheckbox(el) {
   if (nbChecked === 3) {
     el.checked = false;
   } else {
-    const countries = countriesCheckedEl.map((el) => el.value);
-    const datasets = [];
-    countries.forEach((country, i) => {
-      buildCountryDatasets(country, i).forEach((countryDataset) => {
-        datasets.push(countryDataset);
-      });
-    });
-    config.data.datasets = datasets;
+    config.data.datasets = buildDatasetsForSelectedCountries();
     myLineChart.update();
   }
 }
