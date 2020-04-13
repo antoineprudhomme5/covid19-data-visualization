@@ -13,12 +13,28 @@ countries.forEach((country) => {
   checkboxEl.type = "checkbox";
   checkboxEl.name = country;
   checkboxEl.value = country;
+  checkboxEl.className = "country_choice";
 
   const liEl = document.createElement("li");
 
   liEl.appendChild(checkboxEl);
   liEl.innerHTML = liEl.innerHTML + country;
   countriesEl.appendChild(liEl);
+});
+
+function handleClickOnCountryCheckbox(el) {
+  const nbChecked = document.querySelectorAll(
+    'input[class="country_choice"]:checked'
+  ).length;
+  if (nbChecked === 3) {
+    el.checked = false;
+  }
+}
+
+Array.from(document.getElementsByClassName("country_choice")).map((el) => {
+  el.addEventListener("click", (event) => {
+    handleClickOnCountryCheckbox(event.target);
+  });
 });
 
 const options = {};
