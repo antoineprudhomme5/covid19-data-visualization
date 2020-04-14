@@ -2,12 +2,14 @@ const ctx = document.getElementById("myChart");
 
 const defaultCountry = 'France';
 
-const showGlobalDataLabel = "Show global data";
-const hideGlobalDataLabel = "Hide global data";
+const globalDataSwitchEL = document.getElementById("globalDataSwitch");
+const infectionsSwitchEL = document.getElementById("infectionsSwitch");
+const deathsSwitchEL = document.getElementById("deathsSwitch");
+const healingsSwitchEL = document.getElementById("healingsSwitch");
 
-let showGlobalData = false;
-const globalDataToggleBtnEl = document.getElementById("globalDataToggleBtn");
-globalDataToggleBtnEl.textContent = showGlobalDataLabel;
+infectionsSwitchEL.checked = true;
+deathsSwitchEL.checked = true;
+healingsSwitchEL.checked = true;
 
 const countriesEl = document.getElementById("countries");
 countries.forEach((country) => {
@@ -29,29 +31,35 @@ document.querySelector(
 ).checked = true;
 
 function buildCountryDatasets(country, colorIndex = 0) {
-  return [
-    {
+  const datasets = [];
+  if (deathsSwitchEL.checked) {
+    datasets.push({
       label: `Number of deaths in ${country}`,
       backgroundColor: colorCharts[colorIndex].deaths,
       borderColor: colorCharts[colorIndex].deaths,
       data: dataByCountry[country].map(({ deaths }) => deaths),
       fill: false,
-    },
-    {
+    });
+  }
+  if (healingsSwitchEL.checked) {
+    datasets.push({
       label: `Number of healings in ${country}`,
       backgroundColor: colorCharts[colorIndex].healings,
       borderColor: colorCharts[colorIndex].healings,
       data: dataByCountry[country].map(({ healings }) => healings),
       fill: false,
-    },
-    {
+    });
+  }
+  if (infectionsSwitchEL.checked) {
+    datasets.push({
       label: `Number of infections in ${country}`,
       backgroundColor: colorCharts[colorIndex].infections,
       borderColor: colorCharts[colorIndex].infections,
       data: dataByCountry[country].map(({ infections }) => infections),
       fill: false,
-    }
-  ];
+    });
+  }
+  return datasets;
 }
 
 function buildDatasetsForSelectedCountries() {
@@ -66,10 +74,16 @@ function buildDatasetsForSelectedCountries() {
     });
   });
 
-  if (showGlobalData) {
-    datasets.push(globalDeathsDataset);
-    datasets.push(globalHealingsDataset);
-    datasets.push(globalInfectionsDataset);
+  if (globalDataSwitchEL.checked) {
+    if (deathsSwitchEL.checked) {
+      datasets.push(globalDeathsDataset); 
+    }
+    if (healingsSwitchEL.checked) {
+      datasets.push(globalHealingsDataset);
+    }
+    if (infectionsSwitchEL.checked) {
+      datasets.push(globalInfectionsDataset);
+    }
   }
 
   return datasets;
@@ -90,16 +104,15 @@ const config = {
 
 const myLineChart = new Chart(ctx, config);
 
-globalDataToggleBtnEl.addEventListener("click", () => {
-  showGlobalData = !showGlobalData;
-  if (showGlobalData) {
-    globalDataToggleBtnEl.textContent = hideGlobalDataLabel;
-  } else {
-    globalDataToggleBtnEl.textContent = showGlobalDataLabel;
-  }
+function handleSwitchStateChange() {
   config.data.datasets = buildDatasetsForSelectedCountries();
   myLineChart.update();
-});
+}
+
+globalDataSwitchEL.addEventListener("change", handleSwitchStateChange);
+infectionsSwitchEL.addEventListener("change", handleSwitchStateChange);
+deathsSwitchEL.addEventListener("change", handleSwitchStateChange);
+healingsSwitchEL.addEventListener("change", handleSwitchStateChange);
 
 function handleClickOnCountryCheckbox(el) {
   const countriesCheckedEl = Array.from(document.querySelectorAll(

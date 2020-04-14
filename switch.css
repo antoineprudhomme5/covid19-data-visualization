@@ -1,0 +1,62 @@
+.switch_container .switch_container_text {
+	padding-left: 10px;
+	line-height: 20px;
+}
+
+.switch_container .switch_container_switch {
+  padding-left: 10px;
+}
+
+.switch_container {
+  display: flex;
+  margin-top: 10px;
+}
+
+.switchs_container {
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+.switch {
+  height: 0;
+  width: 0;
+  visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.switch_container label {
+  cursor: pointer;
+  width: 40px;
+  height: 20px;
+  background: grey;
+  display: block;
+  border-radius: 100px;
+  position: relative;
+}
+
+.switch_container label:after {
+  content: "";
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  width: 18px;
+  height: 18px;
+  background: #fff;
+  border-radius: 90px;
+  transition: 0.3s;
+}
+
+.switch:checked + label {
+  background: #bada55;
+}
+
+.switch:checked + label:after {
+  left: calc(100% - 1px);
+  transform: translateX(-100%);
+}
+
+.switch:active:after {
+  width: 130px;
+}

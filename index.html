@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="index.css" />
+    <link rel="stylesheet" type="text/css" href="switch.css" />
     <title>COVID19 visualization</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
   </head>
@@ -11,8 +12,47 @@
   <body>
     <div class="container">
       <div class="left">
-        <div class="globalDataToggleBtnContainer">
-          <button id="globalDataToggleBtn"></button>
+        <div class="switchs_container">
+          <div class="switch_container">
+            <div class="switch_container_switch">
+              <input type="checkbox" class="switch" id="globalDataSwitch" /><label
+                for="globalDataSwitch"
+              ></label>
+            </div>
+            <div class="switch_container_text">
+              <span>Show global data</span>
+            </div>
+          </div>
+          <div class="switch_container">
+            <div class="switch_container_switch">
+              <input type="checkbox" class="switch" id="infectionsSwitch" /><label
+                for="infectionsSwitch"
+              ></label>
+            </div>
+            <div class="switch_container_text">
+              <span>Show infections</span>
+            </div>
+          </div>
+          <div class="switch_container">
+            <div class="switch_container_switch">
+              <input type="checkbox" class="switch" id="deathsSwitch" /><label
+                for="deathsSwitch"
+              ></label>
+            </div>
+            <div class="switch_container_text">
+              <span>Show deaths</span>
+            </div>
+          </div>
+          <div class="switch_container">
+            <div class="switch_container_switch">
+              <input type="checkbox" class="switch" id="healingsSwitch" /><label
+                for="healingsSwitch"
+              ></label>
+            </div>
+            <div class="switch_container_text">
+              <span>Show healings</span>
+            </div>
+          </div>
         </div>
         <div>
           <ul id="countries"></ul>
