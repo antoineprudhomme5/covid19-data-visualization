@@ -30,7 +30,7 @@
   cursor: pointer;
   width: 40px;
   height: 20px;
-  background: grey;
+  background: var(--color-light);
   display: block;
   border-radius: 100px;
   position: relative;
@@ -43,13 +43,13 @@
   left: 1px;
   width: 18px;
   height: 18px;
-  background: #fff;
+  background: var(--secondary-dark);
   border-radius: 90px;
   transition: 0.3s;
 }
 
 .switch:checked + label {
-  background: #bada55;
+  background: var(--secondary-light);
 }
 
 .switch:checked + label:after {
