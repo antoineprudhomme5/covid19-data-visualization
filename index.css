@@ -9,6 +9,13 @@
   --secondary-dark: #00600f;
 }
 
+.separator {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid var(--color-light);
+  width: 100%;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -62,7 +69,7 @@ body,
   padding-left: 10px;
 }
 .right .top h1 {
-  margin: 0;
+  margin: 0 0 0 20px;
   line-height: 100px;
 }
 
@@ -74,7 +81,7 @@ body,
   background-color: var(--primary);
   color: var(--color-light);
   width: 80%;
-  padding-left: 10px;
+  padding-left: 30px;
 }
 
 .globalDataToggleBtnContainer {
@@ -103,4 +110,21 @@ ul {
   list-style-type: none;
   margin: 0;
   padding-left: 30px;
+}
+
+.countries_container h2 {
+  margin-left: 20px;
+}
+
+a:link {
+  color: #039be5;
+}
+a:visited {
+  color: #039be5;
+}
+a:hover {
+  color: #039be5;
+}
+a:active {
+  color: #039be5;
 }
