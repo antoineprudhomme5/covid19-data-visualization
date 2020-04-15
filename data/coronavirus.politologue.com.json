@@ -4,13 +4,40 @@
   "Utilisation": "Vous pouvez utiliser ces données sans problème et une référence à https://coronavirus.politologue.com sera appréciable",
   "GlobalData": [
     {
+      "Date": "2020-04-15T00:00:00",
+      "Infection": 2052034,
+      "Deces": 133261,
+      "Guerisons": 509569,
+      "TauxDeces": 6.49,
+      "TauxGuerison": 24.83,
+      "TauxInfection": 68.67
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Infection": 1986404,
+      "Deces": 125910,
+      "Guerisons": 474261,
+      "TauxDeces": 6.34,
+      "TauxGuerison": 23.88,
+      "TauxInfection": 69.79
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Infection": 1917320,
+      "Deces": 119483,
+      "Guerisons": 448655,
+      "TauxDeces": 6.23,
+      "TauxGuerison": 23.4,
+      "TauxInfection": 70.37
+    },
+    {
       "Date": "2020-04-12T00:00:00",
-      "Infection": 1800791,
-      "Deces": 110892,
-      "Guerisons": 412777,
-      "TauxDeces": 6.16,
-      "TauxGuerison": 22.92,
-      "TauxInfection": 70.92
+      "Infection": 1846680,
+      "Deces": 114090,
+      "Guerisons": 421722,
+      "TauxDeces": 6.18,
+      "TauxGuerison": 22.84,
+      "TauxInfection": 70.99
     },
     {
       "Date": "2020-04-11T00:00:00",
@@ -106,7 +133,7 @@
       "Date": "2020-04-01T00:00:00",
       "Infection": 932605,
       "Deces": 46809,
-      "Guerisons": 193177,
+      "Guerisons": 193171,
       "TauxDeces": 5.02,
       "TauxGuerison": 20.71,
       "TauxInfection": 74.27
@@ -115,7 +142,7 @@
       "Date": "2020-03-31T00:00:00",
       "Infection": 857487,
       "Deces": 42107,
-      "Guerisons": 178034,
+      "Guerisons": 178028,
       "TauxDeces": 4.91,
       "TauxGuerison": 20.76,
       "TauxInfection": 74.33
@@ -124,7 +151,7 @@
       "Date": "2020-03-30T00:00:00",
       "Infection": 782389,
       "Deces": 37582,
-      "Guerisons": 164566,
+      "Guerisons": 164560,
       "TauxDeces": 4.8,
       "TauxGuerison": 21.03,
       "TauxInfection": 74.16
@@ -133,7 +160,7 @@
       "Date": "2020-03-29T00:00:00",
       "Infection": 720140,
       "Deces": 33925,
-      "Guerisons": 149082,
+      "Guerisons": 149076,
       "TauxDeces": 4.71,
       "TauxGuerison": 20.7,
       "TauxInfection": 74.59
@@ -142,7 +169,7 @@
       "Date": "2020-03-28T00:00:00",
       "Infection": 660693,
       "Deces": 30652,
-      "Guerisons": 139415,
+      "Guerisons": 139409,
       "TauxDeces": 4.64,
       "TauxGuerison": 21.1,
       "TauxInfection": 74.26
@@ -151,16 +178,16 @@
       "Date": "2020-03-27T00:00:00",
       "Infection": 593291,
       "Deces": 27198,
-      "Guerisons": 130915,
+      "Guerisons": 130909,
       "TauxDeces": 4.58,
-      "TauxGuerison": 22.07,
+      "TauxGuerison": 22.06,
       "TauxInfection": 73.35
     },
     {
       "Date": "2020-03-26T00:00:00",
       "Infection": 529591,
       "Deces": 23970,
-      "Guerisons": 122150,
+      "Guerisons": 122144,
       "TauxDeces": 4.53,
       "TauxGuerison": 23.06,
       "TauxInfection": 72.41
@@ -169,7 +196,7 @@
       "Date": "2020-03-25T00:00:00",
       "Infection": 467594,
       "Deces": 21181,
-      "Guerisons": 113770,
+      "Guerisons": 113764,
       "TauxDeces": 4.53,
       "TauxGuerison": 24.33,
       "TauxInfection": 71.14
@@ -178,7 +205,7 @@
       "Date": "2020-03-24T00:00:00",
       "Infection": 417966,
       "Deces": 18615,
-      "Guerisons": 107705,
+      "Guerisons": 107699,
       "TauxDeces": 4.45,
       "TauxGuerison": 25.77,
       "TauxInfection": 69.78
@@ -744,6 +771,5916 @@
   ],
   "PaysData": [
     {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Andorre",
+      "Infection": 673,
+      "Deces": 33,
+      "Guerisons": 169,
+      "TauxDeces": 4.9,
+      "TauxGuerison": 25.11,
+      "TauxInfection": 69.99
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Émirats Arabes Unis",
+      "Infection": 5365,
+      "Deces": 33,
+      "Guerisons": 1034,
+      "TauxDeces": 0.62,
+      "TauxGuerison": 19.27,
+      "TauxInfection": 80.11
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Afghanistan",
+      "Infection": 784,
+      "Deces": 25,
+      "Guerisons": 43,
+      "TauxDeces": 3.19,
+      "TauxGuerison": 5.48,
+      "TauxInfection": 91.33
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Antigua-et-Barbuda",
+      "Infection": 23,
+      "Deces": 2,
+      "Guerisons": 3,
+      "TauxDeces": 8.7,
+      "TauxGuerison": 13.04,
+      "TauxInfection": 78.26
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Albanie",
+      "Infection": 494,
+      "Deces": 25,
+      "Guerisons": 251,
+      "TauxDeces": 5.06,
+      "TauxGuerison": 50.81,
+      "TauxInfection": 44.13
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Arménie",
+      "Infection": 1111,
+      "Deces": 17,
+      "Guerisons": 297,
+      "TauxDeces": 1.53,
+      "TauxGuerison": 26.73,
+      "TauxInfection": 71.74
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Angola",
+      "Infection": 19,
+      "Deces": 2,
+      "Guerisons": 5,
+      "TauxDeces": 10.53,
+      "TauxGuerison": 26.32,
+      "TauxInfection": 63.16
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Argentine",
+      "Infection": 2443,
+      "Deces": 111,
+      "Guerisons": 596,
+      "TauxDeces": 4.54,
+      "TauxGuerison": 24.4,
+      "TauxInfection": 71.06
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Autriche",
+      "Infection": 14336,
+      "Deces": 393,
+      "Guerisons": 8098,
+      "TauxDeces": 2.74,
+      "TauxGuerison": 56.49,
+      "TauxInfection": 40.77
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Australie",
+      "Infection": 6440,
+      "Deces": 63,
+      "Guerisons": 2186,
+      "TauxDeces": 0.98,
+      "TauxGuerison": 33.94,
+      "TauxInfection": 65.08
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Azerbaïdjan",
+      "Infection": 1253,
+      "Deces": 13,
+      "Guerisons": 404,
+      "TauxDeces": 1.04,
+      "TauxGuerison": 32.24,
+      "TauxInfection": 66.72
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Bosnie-Herzégovine",
+      "Infection": 1110,
+      "Deces": 41,
+      "Guerisons": 253,
+      "TauxDeces": 3.69,
+      "TauxGuerison": 22.79,
+      "TauxInfection": 73.51
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Barbade",
+      "Infection": 73,
+      "Deces": 5,
+      "Guerisons": 15,
+      "TauxDeces": 6.85,
+      "TauxGuerison": 20.55,
+      "TauxInfection": 72.6
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Bangladesh",
+      "Infection": 1231,
+      "Deces": 50,
+      "Guerisons": 49,
+      "TauxDeces": 4.06,
+      "TauxGuerison": 3.98,
+      "TauxInfection": 91.96
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Belgique",
+      "Infection": 33573,
+      "Deces": 4440,
+      "Guerisons": 7107,
+      "TauxDeces": 13.22,
+      "TauxGuerison": 21.17,
+      "TauxInfection": 65.61
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Burkina Faso",
+      "Infection": 528,
+      "Deces": 30,
+      "Guerisons": 177,
+      "TauxDeces": 5.68,
+      "TauxGuerison": 33.52,
+      "TauxInfection": 60.8
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Bulgarie",
+      "Infection": 747,
+      "Deces": 36,
+      "Guerisons": 105,
+      "TauxDeces": 4.82,
+      "TauxGuerison": 14.06,
+      "TauxInfection": 81.12
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Bahreïn",
+      "Infection": 1671,
+      "Deces": 7,
+      "Guerisons": 663,
+      "TauxDeces": 0.42,
+      "TauxGuerison": 39.68,
+      "TauxInfection": 59.9
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Burundi",
+      "Infection": 5,
+      "Deces": 1,
+      "Guerisons": 0,
+      "TauxDeces": 20.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 80.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Bénin",
+      "Infection": 35,
+      "Deces": 1,
+      "Guerisons": 18,
+      "TauxDeces": 2.86,
+      "TauxGuerison": 51.43,
+      "TauxInfection": 45.71
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Saint Barthélemy",
+      "Infection": 6,
+      "Deces": 0,
+      "Guerisons": 4,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 66.67,
+      "TauxInfection": 33.33
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Brunéi Darussalam",
+      "Infection": 136,
+      "Deces": 1,
+      "Guerisons": 108,
+      "TauxDeces": 0.74,
+      "TauxGuerison": 79.41,
+      "TauxInfection": 19.85
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Bolivie",
+      "Infection": 397,
+      "Deces": 28,
+      "Guerisons": 7,
+      "TauxDeces": 7.05,
+      "TauxGuerison": 1.76,
+      "TauxInfection": 91.18
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Brésil",
+      "Infection": 28320,
+      "Deces": 1736,
+      "Guerisons": 14026,
+      "TauxDeces": 6.13,
+      "TauxGuerison": 49.53,
+      "TauxInfection": 44.34
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Bahamas",
+      "Infection": 49,
+      "Deces": 8,
+      "Guerisons": 6,
+      "TauxDeces": 16.33,
+      "TauxGuerison": 12.24,
+      "TauxInfection": 71.43
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Bhoutan",
+      "Infection": 5,
+      "Deces": 0,
+      "Guerisons": 2,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 40.0,
+      "TauxInfection": 60.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Botswana",
+      "Infection": 13,
+      "Deces": 1,
+      "Guerisons": 0,
+      "TauxDeces": 7.69,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 92.31
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Bélarus",
+      "Infection": 3728,
+      "Deces": 36,
+      "Guerisons": 203,
+      "TauxDeces": 0.97,
+      "TauxGuerison": 5.45,
+      "TauxInfection": 93.59
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Belize",
+      "Infection": 18,
+      "Deces": 2,
+      "Guerisons": 0,
+      "TauxDeces": 11.11,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 88.89
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Canada",
+      "Infection": 28205,
+      "Deces": 1006,
+      "Guerisons": 8939,
+      "TauxDeces": 3.57,
+      "TauxGuerison": 31.69,
+      "TauxInfection": 64.74
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Rép. Dém. du Congo",
+      "Infection": 254,
+      "Deces": 21,
+      "Guerisons": 21,
+      "TauxDeces": 8.27,
+      "TauxGuerison": 8.27,
+      "TauxInfection": 83.46
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "République Centrafricaine",
+      "Infection": 12,
+      "Deces": 0,
+      "Guerisons": 4,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 33.33,
+      "TauxInfection": 66.67
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Congo (Brazzaville)",
+      "Infection": 117,
+      "Deces": 5,
+      "Guerisons": 11,
+      "TauxDeces": 4.27,
+      "TauxGuerison": 9.4,
+      "TauxInfection": 86.32
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Suisse",
+      "Infection": 26336,
+      "Deces": 1239,
+      "Guerisons": 15400,
+      "TauxDeces": 4.7,
+      "TauxGuerison": 58.48,
+      "TauxInfection": 36.82
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Côte d'Ivoire",
+      "Infection": 638,
+      "Deces": 6,
+      "Guerisons": 114,
+      "TauxDeces": 0.94,
+      "TauxGuerison": 17.87,
+      "TauxInfection": 81.19
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Chili",
+      "Infection": 8273,
+      "Deces": 94,
+      "Guerisons": 2937,
+      "TauxDeces": 1.14,
+      "TauxGuerison": 35.5,
+      "TauxInfection": 63.36
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Cameroun",
+      "Infection": 848,
+      "Deces": 17,
+      "Guerisons": 165,
+      "TauxDeces": 2.0,
+      "TauxGuerison": 19.46,
+      "TauxInfection": 78.54
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Chine",
+      "Infection": 82294,
+      "Deces": 3342,
+      "Guerisons": 77836,
+      "TauxDeces": 4.06,
+      "TauxGuerison": 94.58,
+      "TauxInfection": 1.36
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Colombie",
+      "Infection": 2979,
+      "Deces": 127,
+      "Guerisons": 354,
+      "TauxDeces": 4.26,
+      "TauxGuerison": 11.88,
+      "TauxInfection": 83.85
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Costa Rica",
+      "Infection": 626,
+      "Deces": 4,
+      "Guerisons": 67,
+      "TauxDeces": 0.64,
+      "TauxGuerison": 10.7,
+      "TauxInfection": 88.66
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Cuba",
+      "Infection": 814,
+      "Deces": 24,
+      "Guerisons": 151,
+      "TauxDeces": 2.95,
+      "TauxGuerison": 18.55,
+      "TauxInfection": 78.5
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Cap-vert",
+      "Infection": 56,
+      "Deces": 1,
+      "Guerisons": 1,
+      "TauxDeces": 1.79,
+      "TauxGuerison": 1.79,
+      "TauxInfection": 96.43
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Chypre",
+      "Infection": 715,
+      "Deces": 12,
+      "Guerisons": 65,
+      "TauxDeces": 1.68,
+      "TauxGuerison": 9.09,
+      "TauxInfection": 89.23
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "République Tchèque",
+      "Infection": 6216,
+      "Deces": 166,
+      "Guerisons": 819,
+      "TauxDeces": 2.67,
+      "TauxGuerison": 13.18,
+      "TauxInfection": 84.15
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Allemagne",
+      "Infection": 133456,
+      "Deces": 3592,
+      "Guerisons": 72600,
+      "TauxDeces": 2.69,
+      "TauxGuerison": 54.4,
+      "TauxInfection": 42.91
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Djibouti",
+      "Infection": 435,
+      "Deces": 2,
+      "Guerisons": 71,
+      "TauxDeces": 0.46,
+      "TauxGuerison": 16.32,
+      "TauxInfection": 83.22
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Danemark",
+      "Infection": 6692,
+      "Deces": 309,
+      "Guerisons": 2759,
+      "TauxDeces": 4.62,
+      "TauxGuerison": 41.23,
+      "TauxInfection": 54.15
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Dominique",
+      "Infection": 16,
+      "Deces": 0,
+      "Guerisons": 8,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 50.0,
+      "TauxInfection": 50.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "République Dominicaine",
+      "Infection": 3614,
+      "Deces": 189,
+      "Guerisons": 208,
+      "TauxDeces": 5.23,
+      "TauxGuerison": 5.76,
+      "TauxInfection": 89.01
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Algérie",
+      "Infection": 2160,
+      "Deces": 336,
+      "Guerisons": 708,
+      "TauxDeces": 15.56,
+      "TauxGuerison": 32.78,
+      "TauxInfection": 51.67
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Équateur",
+      "Infection": 7858,
+      "Deces": 388,
+      "Guerisons": 780,
+      "TauxDeces": 4.94,
+      "TauxGuerison": 9.93,
+      "TauxInfection": 85.14
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Estonie",
+      "Infection": 1400,
+      "Deces": 35,
+      "Guerisons": 117,
+      "TauxDeces": 2.5,
+      "TauxGuerison": 8.36,
+      "TauxInfection": 89.14
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Égypte",
+      "Infection": 2505,
+      "Deces": 183,
+      "Guerisons": 589,
+      "TauxDeces": 7.31,
+      "TauxGuerison": 23.51,
+      "TauxInfection": 69.18
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Sahara Occidental",
+      "Infection": 6,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Érythrée",
+      "Infection": 35,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Espagne",
+      "Infection": 177633,
+      "Deces": 18579,
+      "Guerisons": 70853,
+      "TauxDeces": 10.46,
+      "TauxGuerison": 39.89,
+      "TauxInfection": 49.65
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Éthiopie",
+      "Infection": 85,
+      "Deces": 3,
+      "Guerisons": 15,
+      "TauxDeces": 3.53,
+      "TauxGuerison": 17.65,
+      "TauxInfection": 78.82
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Finlande",
+      "Infection": 3237,
+      "Deces": 72,
+      "Guerisons": 300,
+      "TauxDeces": 2.22,
+      "TauxGuerison": 9.27,
+      "TauxInfection": 88.51
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Fidji",
+      "Infection": 16,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Îles Féroé",
+      "Infection": 184,
+      "Deces": 0,
+      "Guerisons": 166,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 90.22,
+      "TauxInfection": 9.78
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "France",
+      "Infection": 147863,
+      "Deces": 17167,
+      "Guerisons": 30955,
+      "TauxDeces": 11.61,
+      "TauxGuerison": 20.93,
+      "TauxInfection": 67.46
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Gabon",
+      "Infection": 80,
+      "Deces": 1,
+      "Guerisons": 4,
+      "TauxDeces": 1.25,
+      "TauxGuerison": 5.0,
+      "TauxInfection": 93.75
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Royaume-Uni",
+      "Infection": 99328,
+      "Deces": 12894,
+      "Guerisons": 261,
+      "TauxDeces": 12.98,
+      "TauxGuerison": 0.26,
+      "TauxInfection": 86.76
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Grenade",
+      "Infection": 14,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Géorgie",
+      "Infection": 306,
+      "Deces": 3,
+      "Guerisons": 71,
+      "TauxDeces": 0.98,
+      "TauxGuerison": 23.2,
+      "TauxInfection": 75.82
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Guyane Française",
+      "Infection": 86,
+      "Deces": 0,
+      "Guerisons": 51,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 59.3,
+      "TauxInfection": 40.7
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Ghana",
+      "Infection": 636,
+      "Deces": 8,
+      "Guerisons": 17,
+      "TauxDeces": 1.26,
+      "TauxGuerison": 2.67,
+      "TauxInfection": 96.07
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Gibraltar",
+      "Infection": 131,
+      "Deces": 0,
+      "Guerisons": 104,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 79.39,
+      "TauxInfection": 20.61
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Gambie",
+      "Infection": 9,
+      "Deces": 1,
+      "Guerisons": 2,
+      "TauxDeces": 11.11,
+      "TauxGuerison": 22.22,
+      "TauxInfection": 66.67
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Guinée",
+      "Infection": 404,
+      "Deces": 1,
+      "Guerisons": 31,
+      "TauxDeces": 0.25,
+      "TauxGuerison": 7.67,
+      "TauxInfection": 92.08
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Guadeloupe",
+      "Infection": 145,
+      "Deces": 8,
+      "Guerisons": 67,
+      "TauxDeces": 5.52,
+      "TauxGuerison": 46.21,
+      "TauxInfection": 48.28
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Guinée Équatoriale",
+      "Infection": 51,
+      "Deces": 0,
+      "Guerisons": 4,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 7.84,
+      "TauxInfection": 92.16
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Grèce",
+      "Infection": 2192,
+      "Deces": 102,
+      "Guerisons": 269,
+      "TauxDeces": 4.65,
+      "TauxGuerison": 12.27,
+      "TauxInfection": 83.07
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Guatemala",
+      "Infection": 180,
+      "Deces": 5,
+      "Guerisons": 19,
+      "TauxDeces": 2.78,
+      "TauxGuerison": 10.56,
+      "TauxInfection": 86.67
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Guinée-Bissau",
+      "Infection": 43,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Guyana",
+      "Infection": 48,
+      "Deces": 6,
+      "Guerisons": 8,
+      "TauxDeces": 12.5,
+      "TauxGuerison": 16.67,
+      "TauxInfection": 70.83
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Hong-Kong",
+      "Infection": 1017,
+      "Deces": 4,
+      "Guerisons": 459,
+      "TauxDeces": 0.39,
+      "TauxGuerison": 45.13,
+      "TauxInfection": 54.47
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Honduras",
+      "Infection": 419,
+      "Deces": 31,
+      "Guerisons": 9,
+      "TauxDeces": 7.4,
+      "TauxGuerison": 2.15,
+      "TauxInfection": 90.45
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Croatie",
+      "Infection": 1741,
+      "Deces": 34,
+      "Guerisons": 473,
+      "TauxDeces": 1.95,
+      "TauxGuerison": 27.17,
+      "TauxInfection": 70.88
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Haïti",
+      "Infection": 41,
+      "Deces": 3,
+      "Guerisons": 0,
+      "TauxDeces": 7.32,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 92.68
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Hongrie",
+      "Infection": 1579,
+      "Deces": 134,
+      "Guerisons": 192,
+      "TauxDeces": 8.49,
+      "TauxGuerison": 12.16,
+      "TauxInfection": 79.35
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Indonésie",
+      "Infection": 5136,
+      "Deces": 469,
+      "Guerisons": 446,
+      "TauxDeces": 9.13,
+      "TauxGuerison": 8.68,
+      "TauxInfection": 82.18
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Irlande",
+      "Infection": 12547,
+      "Deces": 444,
+      "Guerisons": 77,
+      "TauxDeces": 3.54,
+      "TauxGuerison": 0.61,
+      "TauxInfection": 95.85
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Israël",
+      "Infection": 12501,
+      "Deces": 130,
+      "Guerisons": 2563,
+      "TauxDeces": 1.04,
+      "TauxGuerison": 20.5,
+      "TauxInfection": 78.46
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Inde",
+      "Infection": 12322,
+      "Deces": 405,
+      "Guerisons": 1432,
+      "TauxDeces": 3.29,
+      "TauxGuerison": 11.62,
+      "TauxInfection": 85.09
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Iraq",
+      "Infection": 1415,
+      "Deces": 79,
+      "Guerisons": 812,
+      "TauxDeces": 5.58,
+      "TauxGuerison": 57.39,
+      "TauxInfection": 37.03
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Iran",
+      "Infection": 76389,
+      "Deces": 4777,
+      "Guerisons": 49933,
+      "TauxDeces": 6.25,
+      "TauxGuerison": 65.37,
+      "TauxInfection": 28.38
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Islande",
+      "Infection": 1727,
+      "Deces": 8,
+      "Guerisons": 1077,
+      "TauxDeces": 0.46,
+      "TauxGuerison": 62.36,
+      "TauxInfection": 37.17
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Italie",
+      "Infection": 165155,
+      "Deces": 21645,
+      "Guerisons": 38092,
+      "TauxDeces": 13.11,
+      "TauxGuerison": 23.06,
+      "TauxInfection": 63.83
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Jamaïque",
+      "Infection": 105,
+      "Deces": 5,
+      "Guerisons": 21,
+      "TauxDeces": 4.76,
+      "TauxGuerison": 20.0,
+      "TauxInfection": 75.24
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Jordanie",
+      "Infection": 401,
+      "Deces": 7,
+      "Guerisons": 250,
+      "TauxDeces": 1.75,
+      "TauxGuerison": 62.34,
+      "TauxInfection": 35.91
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Japon",
+      "Infection": 8100,
+      "Deces": 146,
+      "Guerisons": 853,
+      "TauxDeces": 1.8,
+      "TauxGuerison": 10.53,
+      "TauxInfection": 87.67
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Kenya",
+      "Infection": 225,
+      "Deces": 10,
+      "Guerisons": 53,
+      "TauxDeces": 4.44,
+      "TauxGuerison": 23.56,
+      "TauxInfection": 72.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Kirghizistan",
+      "Infection": 449,
+      "Deces": 5,
+      "Guerisons": 78,
+      "TauxDeces": 1.11,
+      "TauxGuerison": 17.37,
+      "TauxInfection": 81.51
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Cambodge",
+      "Infection": 122,
+      "Deces": 0,
+      "Guerisons": 96,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 78.69,
+      "TauxInfection": 21.31
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Saint-Kitts-et-Nevis",
+      "Infection": 14,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Corée du Sud",
+      "Infection": 10591,
+      "Deces": 225,
+      "Guerisons": 7616,
+      "TauxDeces": 2.12,
+      "TauxGuerison": 71.91,
+      "TauxInfection": 25.97
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Koweït",
+      "Infection": 1405,
+      "Deces": 3,
+      "Guerisons": 206,
+      "TauxDeces": 0.21,
+      "TauxGuerison": 14.66,
+      "TauxInfection": 85.12
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Kazakhstan",
+      "Infection": 1295,
+      "Deces": 16,
+      "Guerisons": 240,
+      "TauxDeces": 1.24,
+      "TauxGuerison": 18.53,
+      "TauxInfection": 80.23
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Laos",
+      "Infection": 19,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 5.26,
+      "TauxInfection": 94.74
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Liban",
+      "Infection": 658,
+      "Deces": 21,
+      "Guerisons": 85,
+      "TauxDeces": 3.19,
+      "TauxGuerison": 12.92,
+      "TauxInfection": 83.89
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Sainte-Lucie",
+      "Infection": 15,
+      "Deces": 0,
+      "Guerisons": 11,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 73.33,
+      "TauxInfection": 26.67
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Liechtenstein",
+      "Infection": 79,
+      "Deces": 1,
+      "Guerisons": 55,
+      "TauxDeces": 1.27,
+      "TauxGuerison": 69.62,
+      "TauxInfection": 29.11
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Sri Lanka",
+      "Infection": 238,
+      "Deces": 7,
+      "Guerisons": 63,
+      "TauxDeces": 2.94,
+      "TauxGuerison": 26.47,
+      "TauxInfection": 70.59
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Libéria",
+      "Infection": 59,
+      "Deces": 6,
+      "Guerisons": 4,
+      "TauxDeces": 10.17,
+      "TauxGuerison": 6.78,
+      "TauxInfection": 83.05
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Lituanie",
+      "Infection": 1091,
+      "Deces": 30,
+      "Guerisons": 138,
+      "TauxDeces": 2.75,
+      "TauxGuerison": 12.65,
+      "TauxInfection": 84.6
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Luxembourg",
+      "Infection": 3373,
+      "Deces": 69,
+      "Guerisons": 526,
+      "TauxDeces": 2.05,
+      "TauxGuerison": 15.59,
+      "TauxInfection": 82.36
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Lettonie",
+      "Infection": 666,
+      "Deces": 5,
+      "Guerisons": 44,
+      "TauxDeces": 0.75,
+      "TauxGuerison": 6.61,
+      "TauxInfection": 92.64
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Libye",
+      "Infection": 35,
+      "Deces": 1,
+      "Guerisons": 9,
+      "TauxDeces": 2.86,
+      "TauxGuerison": 25.71,
+      "TauxInfection": 71.43
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Maroc",
+      "Infection": 2024,
+      "Deces": 127,
+      "Guerisons": 229,
+      "TauxDeces": 6.27,
+      "TauxGuerison": 11.31,
+      "TauxInfection": 82.41
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Monaco",
+      "Infection": 93,
+      "Deces": 1,
+      "Guerisons": 6,
+      "TauxDeces": 1.08,
+      "TauxGuerison": 6.45,
+      "TauxInfection": 92.47
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Moldavie",
+      "Infection": 2049,
+      "Deces": 46,
+      "Guerisons": 171,
+      "TauxDeces": 2.24,
+      "TauxGuerison": 8.35,
+      "TauxInfection": 89.41
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Montenegro",
+      "Infection": 288,
+      "Deces": 4,
+      "Guerisons": 55,
+      "TauxDeces": 1.39,
+      "TauxGuerison": 19.1,
+      "TauxInfection": 79.51
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Saint Martin",
+      "Infection": 35,
+      "Deces": 2,
+      "Guerisons": 13,
+      "TauxDeces": 5.71,
+      "TauxGuerison": 37.14,
+      "TauxInfection": 57.14
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Madagascar",
+      "Infection": 110,
+      "Deces": 0,
+      "Guerisons": 29,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 26.36,
+      "TauxInfection": 73.64
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Macédoine",
+      "Infection": 974,
+      "Deces": 45,
+      "Guerisons": 98,
+      "TauxDeces": 4.62,
+      "TauxGuerison": 10.06,
+      "TauxInfection": 85.32
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Mali",
+      "Infection": 148,
+      "Deces": 13,
+      "Guerisons": 34,
+      "TauxDeces": 8.78,
+      "TauxGuerison": 22.97,
+      "TauxInfection": 68.24
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Birmanie",
+      "Infection": 74,
+      "Deces": 4,
+      "Guerisons": 2,
+      "TauxDeces": 5.41,
+      "TauxGuerison": 2.7,
+      "TauxInfection": 91.89
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Mongolie",
+      "Infection": 30,
+      "Deces": 0,
+      "Guerisons": 5,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 16.67,
+      "TauxInfection": 83.33
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Macao",
+      "Infection": 45,
+      "Deces": 0,
+      "Guerisons": 16,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 35.56,
+      "TauxInfection": 64.44
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Martinique",
+      "Infection": 158,
+      "Deces": 8,
+      "Guerisons": 73,
+      "TauxDeces": 5.06,
+      "TauxGuerison": 46.2,
+      "TauxInfection": 48.73
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Mauritanie",
+      "Infection": 7,
+      "Deces": 1,
+      "Guerisons": 2,
+      "TauxDeces": 14.29,
+      "TauxGuerison": 28.57,
+      "TauxInfection": 57.14
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Malte",
+      "Infection": 399,
+      "Deces": 3,
+      "Guerisons": 44,
+      "TauxDeces": 0.75,
+      "TauxGuerison": 11.03,
+      "TauxInfection": 88.22
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Maurice",
+      "Infection": 324,
+      "Deces": 9,
+      "Guerisons": 65,
+      "TauxDeces": 2.78,
+      "TauxGuerison": 20.06,
+      "TauxInfection": 77.16
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Maldives",
+      "Infection": 21,
+      "Deces": 0,
+      "Guerisons": 16,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 76.19,
+      "TauxInfection": 23.81
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Malawi",
+      "Infection": 16,
+      "Deces": 2,
+      "Guerisons": 0,
+      "TauxDeces": 12.5,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 87.5
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Mexique",
+      "Infection": 5399,
+      "Deces": 406,
+      "Guerisons": 2125,
+      "TauxDeces": 7.52,
+      "TauxGuerison": 39.36,
+      "TauxInfection": 53.12
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Malaisie",
+      "Infection": 5072,
+      "Deces": 83,
+      "Guerisons": 2647,
+      "TauxDeces": 1.64,
+      "TauxGuerison": 52.19,
+      "TauxInfection": 46.18
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Mozambique",
+      "Infection": 29,
+      "Deces": 0,
+      "Guerisons": 2,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 6.9,
+      "TauxInfection": 93.1
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Namibie",
+      "Infection": 16,
+      "Deces": 0,
+      "Guerisons": 3,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 18.75,
+      "TauxInfection": 81.25
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Nouvelle-Calédonie",
+      "Infection": 18,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 5.56,
+      "TauxInfection": 94.44
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Niger",
+      "Infection": 570,
+      "Deces": 14,
+      "Guerisons": 90,
+      "TauxDeces": 2.46,
+      "TauxGuerison": 15.79,
+      "TauxInfection": 81.75
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Nigéria",
+      "Infection": 373,
+      "Deces": 11,
+      "Guerisons": 99,
+      "TauxDeces": 2.95,
+      "TauxGuerison": 26.54,
+      "TauxInfection": 70.51
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Nicaragua",
+      "Infection": 9,
+      "Deces": 1,
+      "Guerisons": 4,
+      "TauxDeces": 11.11,
+      "TauxGuerison": 44.44,
+      "TauxInfection": 44.44
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Pays-Bas",
+      "Infection": 28315,
+      "Deces": 3145,
+      "Guerisons": 304,
+      "TauxDeces": 11.11,
+      "TauxGuerison": 1.07,
+      "TauxInfection": 87.82
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Norvège",
+      "Infection": 6740,
+      "Deces": 150,
+      "Guerisons": 32,
+      "TauxDeces": 2.23,
+      "TauxGuerison": 0.47,
+      "TauxInfection": 97.3
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Népal",
+      "Infection": 16,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 6.25,
+      "TauxInfection": 93.75
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Nouvelle-Zélande",
+      "Infection": 1386,
+      "Deces": 9,
+      "Guerisons": 728,
+      "TauxDeces": 0.65,
+      "TauxGuerison": 52.53,
+      "TauxInfection": 46.83
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Oman",
+      "Infection": 910,
+      "Deces": 4,
+      "Guerisons": 131,
+      "TauxDeces": 0.44,
+      "TauxGuerison": 14.4,
+      "TauxInfection": 85.16
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Panama",
+      "Infection": 3574,
+      "Deces": 95,
+      "Guerisons": 72,
+      "TauxDeces": 2.66,
+      "TauxGuerison": 2.01,
+      "TauxInfection": 95.33
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Pérou",
+      "Infection": 11475,
+      "Deces": 254,
+      "Guerisons": 3108,
+      "TauxDeces": 2.21,
+      "TauxGuerison": 27.08,
+      "TauxInfection": 70.7
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Polynésie Française",
+      "Infection": 55,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Papouasie-Nouvelle-Guinée",
+      "Infection": 2,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Philippines",
+      "Infection": 5453,
+      "Deces": 349,
+      "Guerisons": 353,
+      "TauxDeces": 6.4,
+      "TauxGuerison": 6.47,
+      "TauxInfection": 87.13
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Pakistan",
+      "Infection": 6383,
+      "Deces": 111,
+      "Guerisons": 1446,
+      "TauxDeces": 1.74,
+      "TauxGuerison": 22.65,
+      "TauxInfection": 75.61
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Pologne",
+      "Infection": 7582,
+      "Deces": 286,
+      "Guerisons": 668,
+      "TauxDeces": 3.77,
+      "TauxGuerison": 8.81,
+      "TauxInfection": 87.42
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Palestine",
+      "Infection": 308,
+      "Deces": 2,
+      "Guerisons": 62,
+      "TauxDeces": 0.65,
+      "TauxGuerison": 20.13,
+      "TauxInfection": 79.22
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Portugal",
+      "Infection": 18091,
+      "Deces": 599,
+      "Guerisons": 383,
+      "TauxDeces": 3.31,
+      "TauxGuerison": 2.12,
+      "TauxInfection": 94.57
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Paraguay",
+      "Infection": 161,
+      "Deces": 8,
+      "Guerisons": 23,
+      "TauxDeces": 4.97,
+      "TauxGuerison": 14.29,
+      "TauxInfection": 80.75
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Qatar",
+      "Infection": 3711,
+      "Deces": 7,
+      "Guerisons": 406,
+      "TauxDeces": 0.19,
+      "TauxGuerison": 10.94,
+      "TauxInfection": 88.87
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Réunion",
+      "Infection": 391,
+      "Deces": 0,
+      "Guerisons": 40,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 10.23,
+      "TauxInfection": 89.77
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Roumanie",
+      "Infection": 7216,
+      "Deces": 372,
+      "Guerisons": 1217,
+      "TauxDeces": 5.16,
+      "TauxGuerison": 16.87,
+      "TauxInfection": 77.98
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Serbie",
+      "Infection": 4873,
+      "Deces": 99,
+      "Guerisons": 0,
+      "TauxDeces": 2.03,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 97.97
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Fédération de Russie",
+      "Infection": 24490,
+      "Deces": 198,
+      "Guerisons": 1986,
+      "TauxDeces": 0.81,
+      "TauxGuerison": 8.11,
+      "TauxInfection": 91.08
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Rwanda",
+      "Infection": 136,
+      "Deces": 0,
+      "Guerisons": 54,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 39.71,
+      "TauxInfection": 60.29
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Arabie Saoudite",
+      "Infection": 5862,
+      "Deces": 79,
+      "Guerisons": 931,
+      "TauxDeces": 1.35,
+      "TauxGuerison": 15.88,
+      "TauxInfection": 82.77
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Seychelles",
+      "Infection": 11,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Soudan",
+      "Infection": 32,
+      "Deces": 5,
+      "Guerisons": 4,
+      "TauxDeces": 15.62,
+      "TauxGuerison": 12.5,
+      "TauxInfection": 71.88
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Suède",
+      "Infection": 11927,
+      "Deces": 1203,
+      "Guerisons": 381,
+      "TauxDeces": 10.09,
+      "TauxGuerison": 3.19,
+      "TauxInfection": 86.72
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Singapour",
+      "Infection": 3699,
+      "Deces": 10,
+      "Guerisons": 652,
+      "TauxDeces": 0.27,
+      "TauxGuerison": 17.63,
+      "TauxInfection": 82.1
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Slovénie",
+      "Infection": 1248,
+      "Deces": 61,
+      "Guerisons": 165,
+      "TauxDeces": 4.89,
+      "TauxGuerison": 13.22,
+      "TauxInfection": 81.89
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Slovaquie",
+      "Infection": 863,
+      "Deces": 6,
+      "Guerisons": 151,
+      "TauxDeces": 0.7,
+      "TauxGuerison": 17.5,
+      "TauxInfection": 81.81
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Sierra Leone",
+      "Infection": 13,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Saint-Marin",
+      "Infection": 372,
+      "Deces": 36,
+      "Guerisons": 53,
+      "TauxDeces": 9.68,
+      "TauxGuerison": 14.25,
+      "TauxInfection": 76.08
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Sénégal",
+      "Infection": 314,
+      "Deces": 2,
+      "Guerisons": 190,
+      "TauxDeces": 0.64,
+      "TauxGuerison": 60.51,
+      "TauxInfection": 38.85
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Somalie",
+      "Infection": 80,
+      "Deces": 5,
+      "Guerisons": 2,
+      "TauxDeces": 6.25,
+      "TauxGuerison": 2.5,
+      "TauxInfection": 91.25
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Suriname",
+      "Infection": 10,
+      "Deces": 1,
+      "Guerisons": 6,
+      "TauxDeces": 10.0,
+      "TauxGuerison": 60.0,
+      "TauxInfection": 30.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Soudan du sud",
+      "Infection": 4,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Sao Tomé-et-Principe",
+      "Infection": 4,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "El Salvador",
+      "Infection": 159,
+      "Deces": 6,
+      "Guerisons": 30,
+      "TauxDeces": 3.77,
+      "TauxGuerison": 18.87,
+      "TauxInfection": 77.36
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Syrie",
+      "Infection": 33,
+      "Deces": 2,
+      "Guerisons": 5,
+      "TauxDeces": 6.06,
+      "TauxGuerison": 15.15,
+      "TauxInfection": 78.79
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Eswatini",
+      "Infection": 15,
+      "Deces": 0,
+      "Guerisons": 8,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 53.33,
+      "TauxInfection": 46.67
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Tchad",
+      "Infection": 23,
+      "Deces": 0,
+      "Guerisons": 2,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 8.7,
+      "TauxInfection": 91.3
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Togo",
+      "Infection": 81,
+      "Deces": 3,
+      "Guerisons": 35,
+      "TauxDeces": 3.7,
+      "TauxGuerison": 43.21,
+      "TauxInfection": 53.09
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Thaïlande",
+      "Infection": 2643,
+      "Deces": 43,
+      "Guerisons": 1497,
+      "TauxDeces": 1.63,
+      "TauxGuerison": 56.64,
+      "TauxInfection": 41.73
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Timor-Leste",
+      "Infection": 8,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 12.5,
+      "TauxInfection": 87.5
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Tunisie",
+      "Infection": 747,
+      "Deces": 34,
+      "Guerisons": 43,
+      "TauxDeces": 4.55,
+      "TauxGuerison": 5.76,
+      "TauxInfection": 89.69
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Turquie",
+      "Infection": 69392,
+      "Deces": 1518,
+      "Guerisons": 5674,
+      "TauxDeces": 2.19,
+      "TauxGuerison": 8.18,
+      "TauxInfection": 89.64
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Trinité-et-Tobago",
+      "Infection": 114,
+      "Deces": 8,
+      "Guerisons": 19,
+      "TauxDeces": 7.02,
+      "TauxGuerison": 16.67,
+      "TauxInfection": 76.32
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Taïwan",
+      "Infection": 395,
+      "Deces": 6,
+      "Guerisons": 124,
+      "TauxDeces": 1.52,
+      "TauxGuerison": 31.39,
+      "TauxInfection": 67.09
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Tanzanie",
+      "Infection": 88,
+      "Deces": 4,
+      "Guerisons": 11,
+      "TauxDeces": 4.55,
+      "TauxGuerison": 12.5,
+      "TauxInfection": 82.95
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Ukraine",
+      "Infection": 3764,
+      "Deces": 108,
+      "Guerisons": 143,
+      "TauxDeces": 2.87,
+      "TauxGuerison": 3.8,
+      "TauxInfection": 93.33
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Ouganda",
+      "Infection": 55,
+      "Deces": 0,
+      "Guerisons": 12,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 21.82,
+      "TauxInfection": 78.18
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "États-Unis",
+      "Infection": 619607,
+      "Deces": 27760,
+      "Guerisons": 51056,
+      "TauxDeces": 4.48,
+      "TauxGuerison": 8.24,
+      "TauxInfection": 87.28
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Uruguay",
+      "Infection": 492,
+      "Deces": 8,
+      "Guerisons": 260,
+      "TauxDeces": 1.63,
+      "TauxGuerison": 52.85,
+      "TauxInfection": 45.53
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Ouzbékistan",
+      "Infection": 1302,
+      "Deces": 4,
+      "Guerisons": 107,
+      "TauxDeces": 0.31,
+      "TauxGuerison": 8.22,
+      "TauxInfection": 91.47
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Vatican",
+      "Infection": 8,
+      "Deces": 0,
+      "Guerisons": 2,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 25.0,
+      "TauxInfection": 75.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "St-Vincent / Grenadines",
+      "Infection": 12,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 8.33,
+      "TauxInfection": 91.67
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Venezuela",
+      "Infection": 197,
+      "Deces": 9,
+      "Guerisons": 111,
+      "TauxDeces": 4.57,
+      "TauxGuerison": 56.35,
+      "TauxInfection": 39.09
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Viet Nam",
+      "Infection": 267,
+      "Deces": 0,
+      "Guerisons": 171,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 64.04,
+      "TauxInfection": 35.96
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Kosovo",
+      "Infection": 387,
+      "Deces": 8,
+      "Guerisons": 66,
+      "TauxDeces": 2.07,
+      "TauxGuerison": 17.05,
+      "TauxInfection": 80.88
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Yémen",
+      "Infection": 1,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Mayotte",
+      "Infection": 217,
+      "Deces": 3,
+      "Guerisons": 69,
+      "TauxDeces": 1.38,
+      "TauxGuerison": 31.8,
+      "TauxInfection": 66.82
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Afrique du Sud",
+      "Infection": 2506,
+      "Deces": 34,
+      "Guerisons": 410,
+      "TauxDeces": 1.36,
+      "TauxGuerison": 16.36,
+      "TauxInfection": 82.28
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Zambie",
+      "Infection": 48,
+      "Deces": 2,
+      "Guerisons": 30,
+      "TauxDeces": 4.17,
+      "TauxGuerison": 62.5,
+      "TauxInfection": 33.33
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Zimbabwe",
+      "Infection": 18,
+      "Deces": 3,
+      "Guerisons": 1,
+      "TauxDeces": 16.67,
+      "TauxGuerison": 5.56,
+      "TauxInfection": 77.78
+    },
+    {
+      "Date": "2020-04-15T00:00:00",
+      "Pays": "Autres",
+      "Infection": 721,
+      "Deces": 14,
+      "Guerisons": 639,
+      "TauxDeces": 1.94,
+      "TauxGuerison": 88.63,
+      "TauxInfection": 9.43
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Andorre",
+      "Infection": 659,
+      "Deces": 31,
+      "Guerisons": 128,
+      "TauxDeces": 4.7,
+      "TauxGuerison": 19.42,
+      "TauxInfection": 75.87
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Émirats Arabes Unis",
+      "Infection": 4933,
+      "Deces": 28,
+      "Guerisons": 933,
+      "TauxDeces": 0.57,
+      "TauxGuerison": 18.91,
+      "TauxInfection": 80.52
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Afghanistan",
+      "Infection": 714,
+      "Deces": 23,
+      "Guerisons": 40,
+      "TauxDeces": 3.22,
+      "TauxGuerison": 5.6,
+      "TauxInfection": 91.18
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Antigua-et-Barbuda",
+      "Infection": 23,
+      "Deces": 2,
+      "Guerisons": 3,
+      "TauxDeces": 8.7,
+      "TauxGuerison": 13.04,
+      "TauxInfection": 78.26
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Albanie",
+      "Infection": 475,
+      "Deces": 24,
+      "Guerisons": 248,
+      "TauxDeces": 5.05,
+      "TauxGuerison": 52.21,
+      "TauxInfection": 42.74
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Arménie",
+      "Infection": 1067,
+      "Deces": 16,
+      "Guerisons": 265,
+      "TauxDeces": 1.5,
+      "TauxGuerison": 24.84,
+      "TauxInfection": 73.66
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Angola",
+      "Infection": 19,
+      "Deces": 2,
+      "Guerisons": 5,
+      "TauxDeces": 10.53,
+      "TauxGuerison": 26.32,
+      "TauxInfection": 63.16
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Argentine",
+      "Infection": 2277,
+      "Deces": 102,
+      "Guerisons": 559,
+      "TauxDeces": 4.48,
+      "TauxGuerison": 24.55,
+      "TauxInfection": 70.97
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Autriche",
+      "Infection": 14226,
+      "Deces": 384,
+      "Guerisons": 7633,
+      "TauxDeces": 2.7,
+      "TauxGuerison": 53.66,
+      "TauxInfection": 43.65
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Australie",
+      "Infection": 6415,
+      "Deces": 62,
+      "Guerisons": 2186,
+      "TauxDeces": 0.97,
+      "TauxGuerison": 34.08,
+      "TauxInfection": 64.96
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Azerbaïdjan",
+      "Infection": 1197,
+      "Deces": 13,
+      "Guerisons": 351,
+      "TauxDeces": 1.09,
+      "TauxGuerison": 29.32,
+      "TauxInfection": 69.59
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Bosnie-Herzégovine",
+      "Infection": 1083,
+      "Deces": 40,
+      "Guerisons": 236,
+      "TauxDeces": 3.69,
+      "TauxGuerison": 21.79,
+      "TauxInfection": 74.52
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Barbade",
+      "Infection": 72,
+      "Deces": 4,
+      "Guerisons": 13,
+      "TauxDeces": 5.56,
+      "TauxGuerison": 18.06,
+      "TauxInfection": 76.39
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Bangladesh",
+      "Infection": 1012,
+      "Deces": 46,
+      "Guerisons": 42,
+      "TauxDeces": 4.55,
+      "TauxGuerison": 4.15,
+      "TauxInfection": 91.3
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Belgique",
+      "Infection": 31119,
+      "Deces": 4157,
+      "Guerisons": 6868,
+      "TauxDeces": 13.36,
+      "TauxGuerison": 22.07,
+      "TauxInfection": 64.57
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Burkina Faso",
+      "Infection": 528,
+      "Deces": 30,
+      "Guerisons": 177,
+      "TauxDeces": 5.68,
+      "TauxGuerison": 33.52,
+      "TauxInfection": 60.8
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Bulgarie",
+      "Infection": 713,
+      "Deces": 35,
+      "Guerisons": 81,
+      "TauxDeces": 4.91,
+      "TauxGuerison": 11.36,
+      "TauxInfection": 83.73
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Bahreïn",
+      "Infection": 1528,
+      "Deces": 7,
+      "Guerisons": 645,
+      "TauxDeces": 0.46,
+      "TauxGuerison": 42.21,
+      "TauxInfection": 57.33
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Burundi",
+      "Infection": 5,
+      "Deces": 1,
+      "Guerisons": 0,
+      "TauxDeces": 20.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 80.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Bénin",
+      "Infection": 35,
+      "Deces": 1,
+      "Guerisons": 18,
+      "TauxDeces": 2.86,
+      "TauxGuerison": 51.43,
+      "TauxInfection": 45.71
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Saint Barthélemy",
+      "Infection": 6,
+      "Deces": 0,
+      "Guerisons": 4,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 66.67,
+      "TauxInfection": 33.33
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Brunéi Darussalam",
+      "Infection": 136,
+      "Deces": 1,
+      "Guerisons": 107,
+      "TauxDeces": 0.74,
+      "TauxGuerison": 78.68,
+      "TauxInfection": 20.59
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Bolivie",
+      "Infection": 354,
+      "Deces": 28,
+      "Guerisons": 6,
+      "TauxDeces": 7.91,
+      "TauxGuerison": 1.69,
+      "TauxInfection": 90.4
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Brésil",
+      "Infection": 25262,
+      "Deces": 1532,
+      "Guerisons": 3046,
+      "TauxDeces": 6.06,
+      "TauxGuerison": 12.06,
+      "TauxInfection": 81.88
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Bahamas",
+      "Infection": 49,
+      "Deces": 8,
+      "Guerisons": 6,
+      "TauxDeces": 16.33,
+      "TauxGuerison": 12.24,
+      "TauxInfection": 71.43
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Bhoutan",
+      "Infection": 5,
+      "Deces": 0,
+      "Guerisons": 2,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 40.0,
+      "TauxInfection": 60.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Botswana",
+      "Infection": 13,
+      "Deces": 1,
+      "Guerisons": 0,
+      "TauxDeces": 7.69,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 92.31
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Bélarus",
+      "Infection": 3281,
+      "Deces": 33,
+      "Guerisons": 203,
+      "TauxDeces": 1.01,
+      "TauxGuerison": 6.19,
+      "TauxInfection": 92.81
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Belize",
+      "Infection": 18,
+      "Deces": 2,
+      "Guerisons": 0,
+      "TauxDeces": 11.11,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 88.89
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Canada",
+      "Infection": 27035,
+      "Deces": 900,
+      "Guerisons": 8210,
+      "TauxDeces": 3.33,
+      "TauxGuerison": 30.37,
+      "TauxInfection": 66.3
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Rép. Dém. du Congo",
+      "Infection": 241,
+      "Deces": 20,
+      "Guerisons": 20,
+      "TauxDeces": 8.3,
+      "TauxGuerison": 8.3,
+      "TauxInfection": 83.4
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "République Centrafricaine",
+      "Infection": 11,
+      "Deces": 0,
+      "Guerisons": 4,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 36.36,
+      "TauxInfection": 63.64
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Congo (Brazzaville)",
+      "Infection": 60,
+      "Deces": 5,
+      "Guerisons": 5,
+      "TauxDeces": 8.33,
+      "TauxGuerison": 8.33,
+      "TauxInfection": 83.33
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Suisse",
+      "Infection": 25936,
+      "Deces": 1174,
+      "Guerisons": 13700,
+      "TauxDeces": 4.53,
+      "TauxGuerison": 52.82,
+      "TauxInfection": 42.65
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Côte d'Ivoire",
+      "Infection": 638,
+      "Deces": 6,
+      "Guerisons": 114,
+      "TauxDeces": 0.94,
+      "TauxGuerison": 17.87,
+      "TauxInfection": 81.19
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Chili",
+      "Infection": 7917,
+      "Deces": 92,
+      "Guerisons": 2646,
+      "TauxDeces": 1.16,
+      "TauxGuerison": 33.42,
+      "TauxInfection": 65.42
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Cameroun",
+      "Infection": 848,
+      "Deces": 14,
+      "Guerisons": 130,
+      "TauxDeces": 1.65,
+      "TauxGuerison": 15.33,
+      "TauxInfection": 83.02
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Chine",
+      "Infection": 82249,
+      "Deces": 3341,
+      "Guerisons": 77753,
+      "TauxDeces": 4.06,
+      "TauxGuerison": 94.53,
+      "TauxInfection": 1.4
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Colombie",
+      "Infection": 2979,
+      "Deces": 127,
+      "Guerisons": 354,
+      "TauxDeces": 4.26,
+      "TauxGuerison": 11.88,
+      "TauxInfection": 83.85
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Costa Rica",
+      "Infection": 618,
+      "Deces": 3,
+      "Guerisons": 66,
+      "TauxDeces": 0.49,
+      "TauxGuerison": 10.68,
+      "TauxInfection": 88.83
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Cuba",
+      "Infection": 766,
+      "Deces": 21,
+      "Guerisons": 132,
+      "TauxDeces": 2.74,
+      "TauxGuerison": 17.23,
+      "TauxInfection": 80.03
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Cap-vert",
+      "Infection": 11,
+      "Deces": 1,
+      "Guerisons": 1,
+      "TauxDeces": 9.09,
+      "TauxGuerison": 9.09,
+      "TauxInfection": 81.82
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Chypre",
+      "Infection": 695,
+      "Deces": 12,
+      "Guerisons": 65,
+      "TauxDeces": 1.73,
+      "TauxGuerison": 9.35,
+      "TauxInfection": 88.92
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "République Tchèque",
+      "Infection": 6111,
+      "Deces": 161,
+      "Guerisons": 642,
+      "TauxDeces": 2.63,
+      "TauxGuerison": 10.51,
+      "TauxInfection": 86.86
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Allemagne",
+      "Infection": 131359,
+      "Deces": 3294,
+      "Guerisons": 68200,
+      "TauxDeces": 2.51,
+      "TauxGuerison": 51.92,
+      "TauxInfection": 45.57
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Djibouti",
+      "Infection": 363,
+      "Deces": 2,
+      "Guerisons": 53,
+      "TauxDeces": 0.55,
+      "TauxGuerison": 14.6,
+      "TauxInfection": 84.85
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Danemark",
+      "Infection": 6522,
+      "Deces": 299,
+      "Guerisons": 2526,
+      "TauxDeces": 4.58,
+      "TauxGuerison": 38.73,
+      "TauxInfection": 56.69
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Dominique",
+      "Infection": 16,
+      "Deces": 0,
+      "Guerisons": 8,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 50.0,
+      "TauxInfection": 50.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "République Dominicaine",
+      "Infection": 3286,
+      "Deces": 183,
+      "Guerisons": 162,
+      "TauxDeces": 5.57,
+      "TauxGuerison": 4.93,
+      "TauxInfection": 89.5
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Algérie",
+      "Infection": 2070,
+      "Deces": 326,
+      "Guerisons": 691,
+      "TauxDeces": 15.75,
+      "TauxGuerison": 33.38,
+      "TauxInfection": 50.87
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Équateur",
+      "Infection": 7603,
+      "Deces": 369,
+      "Guerisons": 696,
+      "TauxDeces": 4.85,
+      "TauxGuerison": 9.15,
+      "TauxInfection": 85.99
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Estonie",
+      "Infection": 1373,
+      "Deces": 31,
+      "Guerisons": 115,
+      "TauxDeces": 2.26,
+      "TauxGuerison": 8.38,
+      "TauxInfection": 89.37
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Égypte",
+      "Infection": 2350,
+      "Deces": 178,
+      "Guerisons": 589,
+      "TauxDeces": 7.57,
+      "TauxGuerison": 25.06,
+      "TauxInfection": 67.36
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Sahara Occidental",
+      "Infection": 6,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Érythrée",
+      "Infection": 34,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Espagne",
+      "Infection": 172541,
+      "Deces": 18056,
+      "Guerisons": 67504,
+      "TauxDeces": 10.46,
+      "TauxGuerison": 39.12,
+      "TauxInfection": 50.41
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Éthiopie",
+      "Infection": 82,
+      "Deces": 3,
+      "Guerisons": 14,
+      "TauxDeces": 3.66,
+      "TauxGuerison": 17.07,
+      "TauxInfection": 79.27
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Finlande",
+      "Infection": 3161,
+      "Deces": 64,
+      "Guerisons": 300,
+      "TauxDeces": 2.02,
+      "TauxGuerison": 9.49,
+      "TauxInfection": 88.48
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Fidji",
+      "Infection": 16,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Îles Féroé",
+      "Infection": 184,
+      "Deces": 0,
+      "Guerisons": 163,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 88.59,
+      "TauxInfection": 11.41
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "France",
+      "Infection": 142943,
+      "Deces": 15729,
+      "Guerisons": 28805,
+      "TauxDeces": 11.0,
+      "TauxGuerison": 20.15,
+      "TauxInfection": 68.84
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Gabon",
+      "Infection": 57,
+      "Deces": 1,
+      "Guerisons": 1,
+      "TauxDeces": 1.75,
+      "TauxGuerison": 1.75,
+      "TauxInfection": 96.49
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Royaume-Uni",
+      "Infection": 94716,
+      "Deces": 12129,
+      "Guerisons": 230,
+      "TauxDeces": 12.81,
+      "TauxGuerison": 0.24,
+      "TauxInfection": 86.95
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Grenade",
+      "Infection": 14,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Géorgie",
+      "Infection": 300,
+      "Deces": 3,
+      "Guerisons": 69,
+      "TauxDeces": 1.0,
+      "TauxGuerison": 23.0,
+      "TauxInfection": 76.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Guyane Française",
+      "Infection": 86,
+      "Deces": 0,
+      "Guerisons": 51,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 59.3,
+      "TauxInfection": 40.7
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Ghana",
+      "Infection": 636,
+      "Deces": 8,
+      "Guerisons": 17,
+      "TauxDeces": 1.26,
+      "TauxGuerison": 2.67,
+      "TauxInfection": 96.07
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Gibraltar",
+      "Infection": 129,
+      "Deces": 0,
+      "Guerisons": 93,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 72.09,
+      "TauxInfection": 27.91
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Gambie",
+      "Infection": 9,
+      "Deces": 1,
+      "Guerisons": 2,
+      "TauxDeces": 11.11,
+      "TauxGuerison": 22.22,
+      "TauxInfection": 66.67
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Guinée",
+      "Infection": 363,
+      "Deces": 0,
+      "Guerisons": 31,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 8.54,
+      "TauxInfection": 91.46
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Guadeloupe",
+      "Infection": 145,
+      "Deces": 8,
+      "Guerisons": 67,
+      "TauxDeces": 5.52,
+      "TauxGuerison": 46.21,
+      "TauxInfection": 48.28
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Guinée Équatoriale",
+      "Infection": 41,
+      "Deces": 0,
+      "Guerisons": 4,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 9.76,
+      "TauxInfection": 90.24
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Grèce",
+      "Infection": 2170,
+      "Deces": 101,
+      "Guerisons": 269,
+      "TauxDeces": 4.65,
+      "TauxGuerison": 12.4,
+      "TauxInfection": 82.95
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Guatemala",
+      "Infection": 167,
+      "Deces": 5,
+      "Guerisons": 19,
+      "TauxDeces": 2.99,
+      "TauxGuerison": 11.38,
+      "TauxInfection": 85.63
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Guinée-Bissau",
+      "Infection": 38,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Guyana",
+      "Infection": 47,
+      "Deces": 6,
+      "Guerisons": 8,
+      "TauxDeces": 12.77,
+      "TauxGuerison": 17.02,
+      "TauxInfection": 70.21
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Hong-Kong",
+      "Infection": 1012,
+      "Deces": 4,
+      "Guerisons": 434,
+      "TauxDeces": 0.4,
+      "TauxGuerison": 42.89,
+      "TauxInfection": 56.72
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Honduras",
+      "Infection": 407,
+      "Deces": 26,
+      "Guerisons": 7,
+      "TauxDeces": 6.39,
+      "TauxGuerison": 1.72,
+      "TauxInfection": 91.89
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Croatie",
+      "Infection": 1704,
+      "Deces": 31,
+      "Guerisons": 415,
+      "TauxDeces": 1.82,
+      "TauxGuerison": 24.35,
+      "TauxInfection": 73.83
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Haïti",
+      "Infection": 40,
+      "Deces": 3,
+      "Guerisons": 0,
+      "TauxDeces": 7.5,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 92.5
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Hongrie",
+      "Infection": 1512,
+      "Deces": 122,
+      "Guerisons": 122,
+      "TauxDeces": 8.07,
+      "TauxGuerison": 8.07,
+      "TauxInfection": 83.86
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Indonésie",
+      "Infection": 4839,
+      "Deces": 459,
+      "Guerisons": 426,
+      "TauxDeces": 9.49,
+      "TauxGuerison": 8.8,
+      "TauxInfection": 81.71
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Irlande",
+      "Infection": 11479,
+      "Deces": 406,
+      "Guerisons": 25,
+      "TauxDeces": 3.54,
+      "TauxGuerison": 0.22,
+      "TauxInfection": 96.25
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Israël",
+      "Infection": 12046,
+      "Deces": 123,
+      "Guerisons": 2195,
+      "TauxDeces": 1.02,
+      "TauxGuerison": 18.22,
+      "TauxInfection": 80.76
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Inde",
+      "Infection": 11487,
+      "Deces": 393,
+      "Guerisons": 1359,
+      "TauxDeces": 3.42,
+      "TauxGuerison": 11.83,
+      "TauxInfection": 84.75
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Iraq",
+      "Infection": 1400,
+      "Deces": 78,
+      "Guerisons": 766,
+      "TauxDeces": 5.57,
+      "TauxGuerison": 54.71,
+      "TauxInfection": 39.71
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Iran",
+      "Infection": 74877,
+      "Deces": 4683,
+      "Guerisons": 48129,
+      "TauxDeces": 6.25,
+      "TauxGuerison": 64.28,
+      "TauxInfection": 29.47
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Islande",
+      "Infection": 1720,
+      "Deces": 8,
+      "Guerisons": 989,
+      "TauxDeces": 0.47,
+      "TauxGuerison": 57.5,
+      "TauxInfection": 42.03
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Italie",
+      "Infection": 162488,
+      "Deces": 21067,
+      "Guerisons": 37130,
+      "TauxDeces": 12.97,
+      "TauxGuerison": 22.85,
+      "TauxInfection": 64.18
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Jamaïque",
+      "Infection": 73,
+      "Deces": 4,
+      "Guerisons": 19,
+      "TauxDeces": 5.48,
+      "TauxGuerison": 26.03,
+      "TauxInfection": 68.49
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Jordanie",
+      "Infection": 397,
+      "Deces": 7,
+      "Guerisons": 235,
+      "TauxDeces": 1.76,
+      "TauxGuerison": 59.19,
+      "TauxInfection": 39.04
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Japon",
+      "Infection": 7645,
+      "Deces": 143,
+      "Guerisons": 799,
+      "TauxDeces": 1.87,
+      "TauxGuerison": 10.45,
+      "TauxInfection": 87.68
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Kenya",
+      "Infection": 216,
+      "Deces": 9,
+      "Guerisons": 41,
+      "TauxDeces": 4.17,
+      "TauxGuerison": 18.98,
+      "TauxInfection": 76.85
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Kirghizistan",
+      "Infection": 430,
+      "Deces": 5,
+      "Guerisons": 71,
+      "TauxDeces": 1.16,
+      "TauxGuerison": 16.51,
+      "TauxInfection": 82.33
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Cambodge",
+      "Infection": 122,
+      "Deces": 0,
+      "Guerisons": 91,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 74.59,
+      "TauxInfection": 25.41
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Saint-Kitts-et-Nevis",
+      "Infection": 14,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Corée du Sud",
+      "Infection": 10564,
+      "Deces": 222,
+      "Guerisons": 7534,
+      "TauxDeces": 2.1,
+      "TauxGuerison": 71.32,
+      "TauxInfection": 26.58
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Koweït",
+      "Infection": 1355,
+      "Deces": 3,
+      "Guerisons": 176,
+      "TauxDeces": 0.22,
+      "TauxGuerison": 12.99,
+      "TauxInfection": 86.79
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Kazakhstan",
+      "Infection": 1232,
+      "Deces": 14,
+      "Guerisons": 203,
+      "TauxDeces": 1.14,
+      "TauxGuerison": 16.48,
+      "TauxInfection": 82.39
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Laos",
+      "Infection": 19,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 5.26,
+      "TauxInfection": 94.74
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Liban",
+      "Infection": 641,
+      "Deces": 21,
+      "Guerisons": 80,
+      "TauxDeces": 3.28,
+      "TauxGuerison": 12.48,
+      "TauxInfection": 84.24
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Sainte-Lucie",
+      "Infection": 15,
+      "Deces": 0,
+      "Guerisons": 11,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 73.33,
+      "TauxInfection": 26.67
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Liechtenstein",
+      "Infection": 79,
+      "Deces": 1,
+      "Guerisons": 55,
+      "TauxDeces": 1.27,
+      "TauxGuerison": 69.62,
+      "TauxInfection": 29.11
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Sri Lanka",
+      "Infection": 233,
+      "Deces": 7,
+      "Guerisons": 61,
+      "TauxDeces": 3.0,
+      "TauxGuerison": 26.18,
+      "TauxInfection": 70.82
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Libéria",
+      "Infection": 59,
+      "Deces": 6,
+      "Guerisons": 4,
+      "TauxDeces": 10.17,
+      "TauxGuerison": 6.78,
+      "TauxInfection": 83.05
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Lituanie",
+      "Infection": 1070,
+      "Deces": 29,
+      "Guerisons": 101,
+      "TauxDeces": 2.71,
+      "TauxGuerison": 9.44,
+      "TauxInfection": 87.85
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Luxembourg",
+      "Infection": 3307,
+      "Deces": 67,
+      "Guerisons": 500,
+      "TauxDeces": 2.03,
+      "TauxGuerison": 15.12,
+      "TauxInfection": 82.85
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Lettonie",
+      "Infection": 657,
+      "Deces": 5,
+      "Guerisons": 16,
+      "TauxDeces": 0.76,
+      "TauxGuerison": 2.44,
+      "TauxInfection": 96.8
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Libye",
+      "Infection": 35,
+      "Deces": 1,
+      "Guerisons": 9,
+      "TauxDeces": 2.86,
+      "TauxGuerison": 25.71,
+      "TauxInfection": 71.43
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Maroc",
+      "Infection": 1888,
+      "Deces": 126,
+      "Guerisons": 217,
+      "TauxDeces": 6.67,
+      "TauxGuerison": 11.49,
+      "TauxInfection": 81.83
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Monaco",
+      "Infection": 93,
+      "Deces": 1,
+      "Guerisons": 6,
+      "TauxDeces": 1.08,
+      "TauxGuerison": 6.45,
+      "TauxInfection": 92.47
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Moldavie",
+      "Infection": 1934,
+      "Deces": 40,
+      "Guerisons": 134,
+      "TauxDeces": 2.07,
+      "TauxGuerison": 6.93,
+      "TauxInfection": 91.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Montenegro",
+      "Infection": 283,
+      "Deces": 4,
+      "Guerisons": 46,
+      "TauxDeces": 1.41,
+      "TauxGuerison": 16.25,
+      "TauxInfection": 82.33
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Saint Martin",
+      "Infection": 32,
+      "Deces": 2,
+      "Guerisons": 11,
+      "TauxDeces": 6.25,
+      "TauxGuerison": 34.38,
+      "TauxInfection": 59.38
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Madagascar",
+      "Infection": 108,
+      "Deces": 0,
+      "Guerisons": 23,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 21.3,
+      "TauxInfection": 78.7
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Macédoine",
+      "Infection": 908,
+      "Deces": 44,
+      "Guerisons": 86,
+      "TauxDeces": 4.85,
+      "TauxGuerison": 9.47,
+      "TauxInfection": 85.68
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Mali",
+      "Infection": 144,
+      "Deces": 13,
+      "Guerisons": 34,
+      "TauxDeces": 9.03,
+      "TauxGuerison": 23.61,
+      "TauxInfection": 67.36
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Birmanie",
+      "Infection": 63,
+      "Deces": 4,
+      "Guerisons": 2,
+      "TauxDeces": 6.35,
+      "TauxGuerison": 3.17,
+      "TauxInfection": 90.48
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Mongolie",
+      "Infection": 30,
+      "Deces": 0,
+      "Guerisons": 5,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 16.67,
+      "TauxInfection": 83.33
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Macao",
+      "Infection": 45,
+      "Deces": 0,
+      "Guerisons": 13,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 28.89,
+      "TauxInfection": 71.11
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Martinique",
+      "Infection": 157,
+      "Deces": 6,
+      "Guerisons": 50,
+      "TauxDeces": 3.82,
+      "TauxGuerison": 31.85,
+      "TauxInfection": 64.33
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Mauritanie",
+      "Infection": 7,
+      "Deces": 1,
+      "Guerisons": 2,
+      "TauxDeces": 14.29,
+      "TauxGuerison": 28.57,
+      "TauxInfection": 57.14
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Malte",
+      "Infection": 393,
+      "Deces": 3,
+      "Guerisons": 44,
+      "TauxDeces": 0.76,
+      "TauxGuerison": 11.2,
+      "TauxInfection": 88.04
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Maurice",
+      "Infection": 324,
+      "Deces": 9,
+      "Guerisons": 51,
+      "TauxDeces": 2.78,
+      "TauxGuerison": 15.74,
+      "TauxInfection": 81.48
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Maldives",
+      "Infection": 20,
+      "Deces": 0,
+      "Guerisons": 16,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 80.0,
+      "TauxInfection": 20.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Malawi",
+      "Infection": 16,
+      "Deces": 2,
+      "Guerisons": 0,
+      "TauxDeces": 12.5,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 87.5
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Mexique",
+      "Infection": 5014,
+      "Deces": 332,
+      "Guerisons": 1964,
+      "TauxDeces": 6.62,
+      "TauxGuerison": 39.17,
+      "TauxInfection": 54.21
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Malaisie",
+      "Infection": 4987,
+      "Deces": 82,
+      "Guerisons": 2478,
+      "TauxDeces": 1.64,
+      "TauxGuerison": 49.69,
+      "TauxInfection": 48.67
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Mozambique",
+      "Infection": 28,
+      "Deces": 0,
+      "Guerisons": 2,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 7.14,
+      "TauxInfection": 92.86
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Namibie",
+      "Infection": 16,
+      "Deces": 0,
+      "Guerisons": 3,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 18.75,
+      "TauxInfection": 81.25
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Nouvelle-Calédonie",
+      "Infection": 18,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 5.56,
+      "TauxInfection": 94.44
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Niger",
+      "Infection": 570,
+      "Deces": 14,
+      "Guerisons": 90,
+      "TauxDeces": 2.46,
+      "TauxGuerison": 15.79,
+      "TauxInfection": 81.75
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Nigéria",
+      "Infection": 373,
+      "Deces": 11,
+      "Guerisons": 99,
+      "TauxDeces": 2.95,
+      "TauxGuerison": 26.54,
+      "TauxInfection": 70.51
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Nicaragua",
+      "Infection": 9,
+      "Deces": 1,
+      "Guerisons": 4,
+      "TauxDeces": 11.11,
+      "TauxGuerison": 44.44,
+      "TauxInfection": 44.44
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Pays-Bas",
+      "Infection": 27580,
+      "Deces": 2955,
+      "Guerisons": 297,
+      "TauxDeces": 10.71,
+      "TauxGuerison": 1.08,
+      "TauxInfection": 88.21
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Norvège",
+      "Infection": 6623,
+      "Deces": 139,
+      "Guerisons": 32,
+      "TauxDeces": 2.1,
+      "TauxGuerison": 0.48,
+      "TauxInfection": 97.42
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Népal",
+      "Infection": 16,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 6.25,
+      "TauxInfection": 93.75
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Nouvelle-Zélande",
+      "Infection": 1366,
+      "Deces": 9,
+      "Guerisons": 628,
+      "TauxDeces": 0.66,
+      "TauxGuerison": 45.97,
+      "TauxInfection": 53.37
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Oman",
+      "Infection": 813,
+      "Deces": 4,
+      "Guerisons": 130,
+      "TauxDeces": 0.49,
+      "TauxGuerison": 15.99,
+      "TauxInfection": 83.52
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Panama",
+      "Infection": 3472,
+      "Deces": 94,
+      "Guerisons": 61,
+      "TauxDeces": 2.71,
+      "TauxGuerison": 1.76,
+      "TauxInfection": 95.54
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Pérou",
+      "Infection": 10303,
+      "Deces": 230,
+      "Guerisons": 2869,
+      "TauxDeces": 2.23,
+      "TauxGuerison": 27.85,
+      "TauxInfection": 69.92
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Polynésie Française",
+      "Infection": 55,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Papouasie-Nouvelle-Guinée",
+      "Infection": 2,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Philippines",
+      "Infection": 5223,
+      "Deces": 335,
+      "Guerisons": 295,
+      "TauxDeces": 6.41,
+      "TauxGuerison": 5.65,
+      "TauxInfection": 87.94
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Pakistan",
+      "Infection": 5837,
+      "Deces": 96,
+      "Guerisons": 1378,
+      "TauxDeces": 1.64,
+      "TauxGuerison": 23.61,
+      "TauxInfection": 74.75
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Pologne",
+      "Infection": 7202,
+      "Deces": 263,
+      "Guerisons": 618,
+      "TauxDeces": 3.65,
+      "TauxGuerison": 8.58,
+      "TauxInfection": 87.77
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Palestine",
+      "Infection": 308,
+      "Deces": 2,
+      "Guerisons": 62,
+      "TauxDeces": 0.65,
+      "TauxGuerison": 20.13,
+      "TauxInfection": 79.22
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Portugal",
+      "Infection": 17448,
+      "Deces": 567,
+      "Guerisons": 347,
+      "TauxDeces": 3.25,
+      "TauxGuerison": 1.99,
+      "TauxInfection": 94.76
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Paraguay",
+      "Infection": 159,
+      "Deces": 7,
+      "Guerisons": 22,
+      "TauxDeces": 4.4,
+      "TauxGuerison": 13.84,
+      "TauxInfection": 81.76
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Qatar",
+      "Infection": 3428,
+      "Deces": 7,
+      "Guerisons": 373,
+      "TauxDeces": 0.2,
+      "TauxGuerison": 10.88,
+      "TauxInfection": 88.91
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Réunion",
+      "Infection": 391,
+      "Deces": 0,
+      "Guerisons": 40,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 10.23,
+      "TauxInfection": 89.77
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Roumanie",
+      "Infection": 6879,
+      "Deces": 351,
+      "Guerisons": 1051,
+      "TauxDeces": 5.1,
+      "TauxGuerison": 15.28,
+      "TauxInfection": 79.62
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Serbie",
+      "Infection": 4465,
+      "Deces": 94,
+      "Guerisons": 0,
+      "TauxDeces": 2.11,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 97.89
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Fédération de Russie",
+      "Infection": 21102,
+      "Deces": 170,
+      "Guerisons": 1694,
+      "TauxDeces": 0.81,
+      "TauxGuerison": 8.03,
+      "TauxInfection": 91.17
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Rwanda",
+      "Infection": 134,
+      "Deces": 0,
+      "Guerisons": 49,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 36.57,
+      "TauxInfection": 63.43
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Arabie Saoudite",
+      "Infection": 5369,
+      "Deces": 73,
+      "Guerisons": 889,
+      "TauxDeces": 1.36,
+      "TauxGuerison": 16.56,
+      "TauxInfection": 82.08
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Seychelles",
+      "Infection": 11,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Soudan",
+      "Infection": 32,
+      "Deces": 5,
+      "Guerisons": 4,
+      "TauxDeces": 15.62,
+      "TauxGuerison": 12.5,
+      "TauxInfection": 71.88
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Suède",
+      "Infection": 11445,
+      "Deces": 1033,
+      "Guerisons": 381,
+      "TauxDeces": 9.03,
+      "TauxGuerison": 3.33,
+      "TauxInfection": 87.65
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Singapour",
+      "Infection": 3252,
+      "Deces": 10,
+      "Guerisons": 611,
+      "TauxDeces": 0.31,
+      "TauxGuerison": 18.79,
+      "TauxInfection": 80.9
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Slovénie",
+      "Infection": 1220,
+      "Deces": 56,
+      "Guerisons": 152,
+      "TauxDeces": 4.59,
+      "TauxGuerison": 12.46,
+      "TauxInfection": 82.95
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Slovaquie",
+      "Infection": 835,
+      "Deces": 2,
+      "Guerisons": 113,
+      "TauxDeces": 0.24,
+      "TauxGuerison": 13.53,
+      "TauxInfection": 86.23
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Sierra Leone",
+      "Infection": 11,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Saint-Marin",
+      "Infection": 371,
+      "Deces": 36,
+      "Guerisons": 53,
+      "TauxDeces": 9.7,
+      "TauxGuerison": 14.29,
+      "TauxInfection": 76.01
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Sénégal",
+      "Infection": 299,
+      "Deces": 2,
+      "Guerisons": 183,
+      "TauxDeces": 0.67,
+      "TauxGuerison": 61.2,
+      "TauxInfection": 38.13
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Somalie",
+      "Infection": 60,
+      "Deces": 2,
+      "Guerisons": 2,
+      "TauxDeces": 3.33,
+      "TauxGuerison": 3.33,
+      "TauxInfection": 93.33
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Suriname",
+      "Infection": 10,
+      "Deces": 1,
+      "Guerisons": 6,
+      "TauxDeces": 10.0,
+      "TauxGuerison": 60.0,
+      "TauxInfection": 30.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Soudan du sud",
+      "Infection": 4,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Sao Tomé-et-Principe",
+      "Infection": 4,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "El Salvador",
+      "Infection": 149,
+      "Deces": 6,
+      "Guerisons": 25,
+      "TauxDeces": 4.03,
+      "TauxGuerison": 16.78,
+      "TauxInfection": 79.19
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Syrie",
+      "Infection": 29,
+      "Deces": 2,
+      "Guerisons": 5,
+      "TauxDeces": 6.9,
+      "TauxGuerison": 17.24,
+      "TauxInfection": 75.86
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Eswatini",
+      "Infection": 15,
+      "Deces": 0,
+      "Guerisons": 8,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 53.33,
+      "TauxInfection": 46.67
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Tchad",
+      "Infection": 23,
+      "Deces": 0,
+      "Guerisons": 2,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 8.7,
+      "TauxInfection": 91.3
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Togo",
+      "Infection": 77,
+      "Deces": 3,
+      "Guerisons": 32,
+      "TauxDeces": 3.9,
+      "TauxGuerison": 41.56,
+      "TauxInfection": 54.55
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Thaïlande",
+      "Infection": 2613,
+      "Deces": 41,
+      "Guerisons": 1405,
+      "TauxDeces": 1.57,
+      "TauxGuerison": 53.77,
+      "TauxInfection": 44.66
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Timor-Leste",
+      "Infection": 6,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 16.67,
+      "TauxInfection": 83.33
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Tunisie",
+      "Infection": 747,
+      "Deces": 34,
+      "Guerisons": 43,
+      "TauxDeces": 4.55,
+      "TauxGuerison": 5.76,
+      "TauxInfection": 89.69
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Turquie",
+      "Infection": 65111,
+      "Deces": 1403,
+      "Guerisons": 4799,
+      "TauxDeces": 2.15,
+      "TauxGuerison": 7.37,
+      "TauxInfection": 90.47
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Trinité-et-Tobago",
+      "Infection": 113,
+      "Deces": 8,
+      "Guerisons": 17,
+      "TauxDeces": 7.08,
+      "TauxGuerison": 15.04,
+      "TauxInfection": 77.88
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Taïwan",
+      "Infection": 393,
+      "Deces": 6,
+      "Guerisons": 124,
+      "TauxDeces": 1.53,
+      "TauxGuerison": 31.55,
+      "TauxInfection": 66.92
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Tanzanie",
+      "Infection": 53,
+      "Deces": 3,
+      "Guerisons": 7,
+      "TauxDeces": 5.66,
+      "TauxGuerison": 13.21,
+      "TauxInfection": 81.13
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Ukraine",
+      "Infection": 3372,
+      "Deces": 98,
+      "Guerisons": 119,
+      "TauxDeces": 2.91,
+      "TauxGuerison": 3.53,
+      "TauxInfection": 93.56
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Ouganda",
+      "Infection": 55,
+      "Deces": 0,
+      "Guerisons": 8,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 14.55,
+      "TauxInfection": 85.45
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "États-Unis",
+      "Infection": 605193,
+      "Deces": 25757,
+      "Guerisons": 47763,
+      "TauxDeces": 4.26,
+      "TauxGuerison": 7.89,
+      "TauxInfection": 87.85
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Uruguay",
+      "Infection": 483,
+      "Deces": 8,
+      "Guerisons": 248,
+      "TauxDeces": 1.66,
+      "TauxGuerison": 51.35,
+      "TauxInfection": 47.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Ouzbékistan",
+      "Infection": 1165,
+      "Deces": 4,
+      "Guerisons": 99,
+      "TauxDeces": 0.34,
+      "TauxGuerison": 8.5,
+      "TauxInfection": 91.16
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Vatican",
+      "Infection": 8,
+      "Deces": 0,
+      "Guerisons": 2,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 25.0,
+      "TauxInfection": 75.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "St-Vincent / Grenadines",
+      "Infection": 12,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 8.33,
+      "TauxInfection": 91.67
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Venezuela",
+      "Infection": 189,
+      "Deces": 9,
+      "Guerisons": 110,
+      "TauxDeces": 4.76,
+      "TauxGuerison": 58.2,
+      "TauxInfection": 37.04
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Viet Nam",
+      "Infection": 266,
+      "Deces": 0,
+      "Guerisons": 169,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 63.53,
+      "TauxInfection": 36.47
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Kosovo",
+      "Infection": 387,
+      "Deces": 8,
+      "Guerisons": 66,
+      "TauxDeces": 2.07,
+      "TauxGuerison": 17.05,
+      "TauxInfection": 80.88
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Yémen",
+      "Infection": 1,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Mayotte",
+      "Infection": 217,
+      "Deces": 3,
+      "Guerisons": 69,
+      "TauxDeces": 1.38,
+      "TauxGuerison": 31.8,
+      "TauxInfection": 66.82
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Afrique du Sud",
+      "Infection": 2415,
+      "Deces": 27,
+      "Guerisons": 410,
+      "TauxDeces": 1.12,
+      "TauxGuerison": 16.98,
+      "TauxInfection": 81.9
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Zambie",
+      "Infection": 45,
+      "Deces": 2,
+      "Guerisons": 30,
+      "TauxDeces": 4.44,
+      "TauxGuerison": 66.67,
+      "TauxInfection": 28.89
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Zimbabwe",
+      "Infection": 17,
+      "Deces": 3,
+      "Guerisons": 0,
+      "TauxDeces": 17.65,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 82.35
+    },
+    {
+      "Date": "2020-04-14T00:00:00",
+      "Pays": "Autres",
+      "Infection": 721,
+      "Deces": 14,
+      "Guerisons": 639,
+      "TauxDeces": 1.94,
+      "TauxGuerison": 88.63,
+      "TauxInfection": 9.43
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Andorre",
+      "Infection": 646,
+      "Deces": 29,
+      "Guerisons": 128,
+      "TauxDeces": 4.49,
+      "TauxGuerison": 19.81,
+      "TauxInfection": 75.7
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Émirats Arabes Unis",
+      "Infection": 4521,
+      "Deces": 25,
+      "Guerisons": 852,
+      "TauxDeces": 0.55,
+      "TauxGuerison": 18.85,
+      "TauxInfection": 80.6
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Afghanistan",
+      "Infection": 665,
+      "Deces": 21,
+      "Guerisons": 32,
+      "TauxDeces": 3.16,
+      "TauxGuerison": 4.81,
+      "TauxInfection": 92.03
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Antigua-et-Barbuda",
+      "Infection": 23,
+      "Deces": 2,
+      "Guerisons": 0,
+      "TauxDeces": 8.7,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 91.3
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Albanie",
+      "Infection": 467,
+      "Deces": 23,
+      "Guerisons": 232,
+      "TauxDeces": 4.93,
+      "TauxGuerison": 49.68,
+      "TauxInfection": 45.4
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Arménie",
+      "Infection": 1039,
+      "Deces": 14,
+      "Guerisons": 211,
+      "TauxDeces": 1.35,
+      "TauxGuerison": 20.31,
+      "TauxInfection": 78.34
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Angola",
+      "Infection": 19,
+      "Deces": 2,
+      "Guerisons": 4,
+      "TauxDeces": 10.53,
+      "TauxGuerison": 21.05,
+      "TauxInfection": 68.42
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Argentine",
+      "Infection": 2208,
+      "Deces": 97,
+      "Guerisons": 515,
+      "TauxDeces": 4.39,
+      "TauxGuerison": 23.32,
+      "TauxInfection": 72.28
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Autriche",
+      "Infection": 14041,
+      "Deces": 368,
+      "Guerisons": 7343,
+      "TauxDeces": 2.62,
+      "TauxGuerison": 52.3,
+      "TauxInfection": 45.08
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Australie",
+      "Infection": 6351,
+      "Deces": 61,
+      "Guerisons": 1806,
+      "TauxDeces": 0.96,
+      "TauxGuerison": 28.44,
+      "TauxInfection": 70.6
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Azerbaïdjan",
+      "Infection": 1148,
+      "Deces": 12,
+      "Guerisons": 289,
+      "TauxDeces": 1.05,
+      "TauxGuerison": 25.17,
+      "TauxInfection": 73.78
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Bosnie-Herzégovine",
+      "Infection": 1037,
+      "Deces": 39,
+      "Guerisons": 206,
+      "TauxDeces": 3.76,
+      "TauxGuerison": 19.86,
+      "TauxInfection": 76.37
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Barbade",
+      "Infection": 72,
+      "Deces": 4,
+      "Guerisons": 13,
+      "TauxDeces": 5.56,
+      "TauxGuerison": 18.06,
+      "TauxInfection": 76.39
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Bangladesh",
+      "Infection": 803,
+      "Deces": 39,
+      "Guerisons": 42,
+      "TauxDeces": 4.86,
+      "TauxGuerison": 5.23,
+      "TauxInfection": 89.91
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Belgique",
+      "Infection": 30589,
+      "Deces": 3903,
+      "Guerisons": 6707,
+      "TauxDeces": 12.76,
+      "TauxGuerison": 21.93,
+      "TauxInfection": 65.31
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Burkina Faso",
+      "Infection": 497,
+      "Deces": 27,
+      "Guerisons": 161,
+      "TauxDeces": 5.43,
+      "TauxGuerison": 32.39,
+      "TauxInfection": 62.17
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Bulgarie",
+      "Infection": 685,
+      "Deces": 32,
+      "Guerisons": 71,
+      "TauxDeces": 4.67,
+      "TauxGuerison": 10.36,
+      "TauxInfection": 84.96
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Bahreïn",
+      "Infection": 1361,
+      "Deces": 6,
+      "Guerisons": 591,
+      "TauxDeces": 0.44,
+      "TauxGuerison": 43.42,
+      "TauxInfection": 56.14
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Burundi",
+      "Infection": 5,
+      "Deces": 1,
+      "Guerisons": 0,
+      "TauxDeces": 20.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 80.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Bénin",
+      "Infection": 35,
+      "Deces": 1,
+      "Guerisons": 5,
+      "TauxDeces": 2.86,
+      "TauxGuerison": 14.29,
+      "TauxInfection": 82.86
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Saint Barthélemy",
+      "Infection": 6,
+      "Deces": 0,
+      "Guerisons": 4,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 66.67,
+      "TauxInfection": 33.33
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Brunéi Darussalam",
+      "Infection": 136,
+      "Deces": 1,
+      "Guerisons": 107,
+      "TauxDeces": 0.74,
+      "TauxGuerison": 78.68,
+      "TauxInfection": 20.59
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Bolivie",
+      "Infection": 330,
+      "Deces": 27,
+      "Guerisons": 2,
+      "TauxDeces": 8.18,
+      "TauxGuerison": 0.61,
+      "TauxInfection": 91.21
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Brésil",
+      "Infection": 23430,
+      "Deces": 1328,
+      "Guerisons": 173,
+      "TauxDeces": 5.67,
+      "TauxGuerison": 0.74,
+      "TauxInfection": 93.59
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Bahamas",
+      "Infection": 47,
+      "Deces": 8,
+      "Guerisons": 6,
+      "TauxDeces": 17.02,
+      "TauxGuerison": 12.77,
+      "TauxInfection": 70.21
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Bhoutan",
+      "Infection": 5,
+      "Deces": 0,
+      "Guerisons": 2,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 40.0,
+      "TauxInfection": 60.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Botswana",
+      "Infection": 13,
+      "Deces": 1,
+      "Guerisons": 0,
+      "TauxDeces": 7.69,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 92.31
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Bélarus",
+      "Infection": 2919,
+      "Deces": 29,
+      "Guerisons": 203,
+      "TauxDeces": 0.99,
+      "TauxGuerison": 6.95,
+      "TauxInfection": 92.05
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Belize",
+      "Infection": 18,
+      "Deces": 2,
+      "Guerisons": 0,
+      "TauxDeces": 11.11,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 88.89
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Canada",
+      "Infection": 25680,
+      "Deces": 780,
+      "Guerisons": 7758,
+      "TauxDeces": 3.04,
+      "TauxGuerison": 30.21,
+      "TauxInfection": 66.75
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Rép. Dém. du Congo",
+      "Infection": 235,
+      "Deces": 20,
+      "Guerisons": 17,
+      "TauxDeces": 8.51,
+      "TauxGuerison": 7.23,
+      "TauxInfection": 84.26
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "République Centrafricaine",
+      "Infection": 11,
+      "Deces": 0,
+      "Guerisons": 3,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 27.27,
+      "TauxInfection": 72.73
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Congo (Brazzaville)",
+      "Infection": 60,
+      "Deces": 5,
+      "Guerisons": 5,
+      "TauxDeces": 8.33,
+      "TauxGuerison": 8.33,
+      "TauxInfection": 83.33
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Suisse",
+      "Infection": 25688,
+      "Deces": 1138,
+      "Guerisons": 13700,
+      "TauxDeces": 4.43,
+      "TauxGuerison": 53.33,
+      "TauxInfection": 42.24
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Côte d'Ivoire",
+      "Infection": 626,
+      "Deces": 6,
+      "Guerisons": 89,
+      "TauxDeces": 0.96,
+      "TauxGuerison": 14.22,
+      "TauxInfection": 84.82
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Chili",
+      "Infection": 7525,
+      "Deces": 82,
+      "Guerisons": 2367,
+      "TauxDeces": 1.09,
+      "TauxGuerison": 31.46,
+      "TauxInfection": 67.46
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Cameroun",
+      "Infection": 820,
+      "Deces": 12,
+      "Guerisons": 98,
+      "TauxDeces": 1.46,
+      "TauxGuerison": 11.95,
+      "TauxInfection": 86.59
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Chine",
+      "Infection": 82159,
+      "Deces": 3341,
+      "Guerisons": 77666,
+      "TauxDeces": 4.07,
+      "TauxGuerison": 94.53,
+      "TauxInfection": 1.4
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Colombie",
+      "Infection": 2852,
+      "Deces": 112,
+      "Guerisons": 319,
+      "TauxDeces": 3.93,
+      "TauxGuerison": 11.19,
+      "TauxInfection": 84.89
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Costa Rica",
+      "Infection": 612,
+      "Deces": 3,
+      "Guerisons": 62,
+      "TauxDeces": 0.49,
+      "TauxGuerison": 10.13,
+      "TauxInfection": 89.38
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Cuba",
+      "Infection": 726,
+      "Deces": 21,
+      "Guerisons": 121,
+      "TauxDeces": 2.89,
+      "TauxGuerison": 16.67,
+      "TauxInfection": 80.44
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Cap-vert",
+      "Infection": 10,
+      "Deces": 1,
+      "Guerisons": 1,
+      "TauxDeces": 10.0,
+      "TauxGuerison": 10.0,
+      "TauxInfection": 80.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Chypre",
+      "Infection": 662,
+      "Deces": 12,
+      "Guerisons": 65,
+      "TauxDeces": 1.81,
+      "TauxGuerison": 9.82,
+      "TauxInfection": 88.37
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "République Tchèque",
+      "Infection": 6059,
+      "Deces": 143,
+      "Guerisons": 519,
+      "TauxDeces": 2.36,
+      "TauxGuerison": 8.57,
+      "TauxInfection": 89.07
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Allemagne",
+      "Infection": 130072,
+      "Deces": 3194,
+      "Guerisons": 64300,
+      "TauxDeces": 2.46,
+      "TauxGuerison": 49.43,
+      "TauxInfection": 48.11
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Djibouti",
+      "Infection": 298,
+      "Deces": 2,
+      "Guerisons": 41,
+      "TauxDeces": 0.67,
+      "TauxGuerison": 13.76,
+      "TauxInfection": 85.57
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Danemark",
+      "Infection": 6329,
+      "Deces": 285,
+      "Guerisons": 2246,
+      "TauxDeces": 4.5,
+      "TauxGuerison": 35.49,
+      "TauxInfection": 60.01
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Dominique",
+      "Infection": 16,
+      "Deces": 0,
+      "Guerisons": 8,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 50.0,
+      "TauxInfection": 50.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "République Dominicaine",
+      "Infection": 3167,
+      "Deces": 177,
+      "Guerisons": 152,
+      "TauxDeces": 5.59,
+      "TauxGuerison": 4.8,
+      "TauxInfection": 89.61
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Algérie",
+      "Infection": 1983,
+      "Deces": 313,
+      "Guerisons": 601,
+      "TauxDeces": 15.78,
+      "TauxGuerison": 30.31,
+      "TauxInfection": 53.91
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Équateur",
+      "Infection": 7529,
+      "Deces": 355,
+      "Guerisons": 597,
+      "TauxDeces": 4.72,
+      "TauxGuerison": 7.93,
+      "TauxInfection": 87.36
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Estonie",
+      "Infection": 1332,
+      "Deces": 28,
+      "Guerisons": 102,
+      "TauxDeces": 2.1,
+      "TauxGuerison": 7.66,
+      "TauxInfection": 90.24
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Égypte",
+      "Infection": 2190,
+      "Deces": 164,
+      "Guerisons": 589,
+      "TauxDeces": 7.49,
+      "TauxGuerison": 26.89,
+      "TauxInfection": 65.62
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Sahara Occidental",
+      "Infection": 6,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Érythrée",
+      "Infection": 34,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Espagne",
+      "Infection": 170099,
+      "Deces": 17756,
+      "Guerisons": 64727,
+      "TauxDeces": 10.44,
+      "TauxGuerison": 38.05,
+      "TauxInfection": 51.51
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Éthiopie",
+      "Infection": 74,
+      "Deces": 3,
+      "Guerisons": 14,
+      "TauxDeces": 4.05,
+      "TauxGuerison": 18.92,
+      "TauxInfection": 77.03
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Finlande",
+      "Infection": 3064,
+      "Deces": 59,
+      "Guerisons": 300,
+      "TauxDeces": 1.93,
+      "TauxGuerison": 9.79,
+      "TauxInfection": 88.28
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Fidji",
+      "Infection": 16,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Îles Féroé",
+      "Infection": 184,
+      "Deces": 0,
+      "Guerisons": 157,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 85.33,
+      "TauxInfection": 14.67
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "France",
+      "Infection": 136780,
+      "Deces": 14967,
+      "Guerisons": 27718,
+      "TauxDeces": 10.94,
+      "TauxGuerison": 20.26,
+      "TauxInfection": 68.79
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Gabon",
+      "Infection": 57,
+      "Deces": 1,
+      "Guerisons": 1,
+      "TauxDeces": 1.75,
+      "TauxGuerison": 1.75,
+      "TauxInfection": 96.49
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Royaume-Uni",
+      "Infection": 89441,
+      "Deces": 11347,
+      "Guerisons": 220,
+      "TauxDeces": 12.69,
+      "TauxGuerison": 0.25,
+      "TauxInfection": 87.07
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Grenade",
+      "Infection": 14,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Géorgie",
+      "Infection": 272,
+      "Deces": 3,
+      "Guerisons": 68,
+      "TauxDeces": 1.1,
+      "TauxGuerison": 25.0,
+      "TauxInfection": 73.9
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Guyane Française",
+      "Infection": 86,
+      "Deces": 0,
+      "Guerisons": 51,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 59.3,
+      "TauxInfection": 40.7
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Ghana",
+      "Infection": 566,
+      "Deces": 8,
+      "Guerisons": 4,
+      "TauxDeces": 1.41,
+      "TauxGuerison": 0.71,
+      "TauxInfection": 97.88
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Gibraltar",
+      "Infection": 129,
+      "Deces": 0,
+      "Guerisons": 84,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 65.12,
+      "TauxInfection": 34.88
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Gambie",
+      "Infection": 9,
+      "Deces": 1,
+      "Guerisons": 2,
+      "TauxDeces": 11.11,
+      "TauxGuerison": 22.22,
+      "TauxInfection": 66.67
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Guinée",
+      "Infection": 319,
+      "Deces": 0,
+      "Guerisons": 17,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 5.33,
+      "TauxInfection": 94.67
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Guadeloupe",
+      "Infection": 143,
+      "Deces": 8,
+      "Guerisons": 67,
+      "TauxDeces": 5.59,
+      "TauxGuerison": 46.85,
+      "TauxInfection": 47.55
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Guinée Équatoriale",
+      "Infection": 21,
+      "Deces": 0,
+      "Guerisons": 4,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 19.05,
+      "TauxInfection": 80.95
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Grèce",
+      "Infection": 2145,
+      "Deces": 99,
+      "Guerisons": 269,
+      "TauxDeces": 4.62,
+      "TauxGuerison": 12.54,
+      "TauxInfection": 82.84
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Guatemala",
+      "Infection": 156,
+      "Deces": 5,
+      "Guerisons": 19,
+      "TauxDeces": 3.21,
+      "TauxGuerison": 12.18,
+      "TauxInfection": 84.62
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Guinée-Bissau",
+      "Infection": 38,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Guyana",
+      "Infection": 45,
+      "Deces": 6,
+      "Guerisons": 8,
+      "TauxDeces": 13.33,
+      "TauxGuerison": 17.78,
+      "TauxInfection": 68.89
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Hong-Kong",
+      "Infection": 1009,
+      "Deces": 4,
+      "Guerisons": 360,
+      "TauxDeces": 0.4,
+      "TauxGuerison": 35.68,
+      "TauxInfection": 63.92
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Honduras",
+      "Infection": 397,
+      "Deces": 25,
+      "Guerisons": 7,
+      "TauxDeces": 6.3,
+      "TauxGuerison": 1.76,
+      "TauxInfection": 91.94
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Croatie",
+      "Infection": 1650,
+      "Deces": 25,
+      "Guerisons": 400,
+      "TauxDeces": 1.52,
+      "TauxGuerison": 24.24,
+      "TauxInfection": 74.24
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Haïti",
+      "Infection": 40,
+      "Deces": 3,
+      "Guerisons": 0,
+      "TauxDeces": 7.5,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 92.5
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Hongrie",
+      "Infection": 1458,
+      "Deces": 109,
+      "Guerisons": 120,
+      "TauxDeces": 7.48,
+      "TauxGuerison": 8.23,
+      "TauxInfection": 84.29
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Indonésie",
+      "Infection": 4557,
+      "Deces": 399,
+      "Guerisons": 380,
+      "TauxDeces": 8.76,
+      "TauxGuerison": 8.34,
+      "TauxInfection": 82.91
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Irlande",
+      "Infection": 10647,
+      "Deces": 365,
+      "Guerisons": 25,
+      "TauxDeces": 3.43,
+      "TauxGuerison": 0.23,
+      "TauxInfection": 96.34
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Israël",
+      "Infection": 11586,
+      "Deces": 116,
+      "Guerisons": 1855,
+      "TauxDeces": 1.0,
+      "TauxGuerison": 16.01,
+      "TauxInfection": 82.99
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Inde",
+      "Infection": 10453,
+      "Deces": 358,
+      "Guerisons": 1181,
+      "TauxDeces": 3.42,
+      "TauxGuerison": 11.3,
+      "TauxInfection": 85.28
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Iraq",
+      "Infection": 1378,
+      "Deces": 78,
+      "Guerisons": 717,
+      "TauxDeces": 5.66,
+      "TauxGuerison": 52.03,
+      "TauxInfection": 42.31
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Iran",
+      "Infection": 73303,
+      "Deces": 4585,
+      "Guerisons": 45983,
+      "TauxDeces": 6.25,
+      "TauxGuerison": 62.73,
+      "TauxInfection": 31.02
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Islande",
+      "Infection": 1711,
+      "Deces": 8,
+      "Guerisons": 933,
+      "TauxDeces": 0.47,
+      "TauxGuerison": 54.53,
+      "TauxInfection": 45.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Italie",
+      "Infection": 159516,
+      "Deces": 20465,
+      "Guerisons": 35435,
+      "TauxDeces": 12.83,
+      "TauxGuerison": 22.21,
+      "TauxInfection": 64.96
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Jamaïque",
+      "Infection": 73,
+      "Deces": 4,
+      "Guerisons": 19,
+      "TauxDeces": 5.48,
+      "TauxGuerison": 26.03,
+      "TauxInfection": 68.49
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Jordanie",
+      "Infection": 391,
+      "Deces": 7,
+      "Guerisons": 215,
+      "TauxDeces": 1.79,
+      "TauxGuerison": 54.99,
+      "TauxInfection": 43.22
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Japon",
+      "Infection": 7370,
+      "Deces": 123,
+      "Guerisons": 784,
+      "TauxDeces": 1.67,
+      "TauxGuerison": 10.64,
+      "TauxInfection": 87.69
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Kenya",
+      "Infection": 208,
+      "Deces": 9,
+      "Guerisons": 40,
+      "TauxDeces": 4.33,
+      "TauxGuerison": 19.23,
+      "TauxInfection": 76.44
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Kirghizistan",
+      "Infection": 419,
+      "Deces": 5,
+      "Guerisons": 67,
+      "TauxDeces": 1.19,
+      "TauxGuerison": 15.99,
+      "TauxInfection": 82.82
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Cambodge",
+      "Infection": 122,
+      "Deces": 0,
+      "Guerisons": 77,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 63.11,
+      "TauxInfection": 36.89
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Saint-Kitts-et-Nevis",
+      "Infection": 12,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Corée du Sud",
+      "Infection": 10537,
+      "Deces": 217,
+      "Guerisons": 7447,
+      "TauxDeces": 2.06,
+      "TauxGuerison": 70.67,
+      "TauxInfection": 27.27
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Koweït",
+      "Infection": 1300,
+      "Deces": 2,
+      "Guerisons": 150,
+      "TauxDeces": 0.15,
+      "TauxGuerison": 11.54,
+      "TauxInfection": 88.31
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Kazakhstan",
+      "Infection": 1091,
+      "Deces": 12,
+      "Guerisons": 138,
+      "TauxDeces": 1.1,
+      "TauxGuerison": 12.65,
+      "TauxInfection": 86.25
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Laos",
+      "Infection": 19,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Liban",
+      "Infection": 632,
+      "Deces": 20,
+      "Guerisons": 80,
+      "TauxDeces": 3.16,
+      "TauxGuerison": 12.66,
+      "TauxInfection": 84.18
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Sainte-Lucie",
+      "Infection": 15,
+      "Deces": 0,
+      "Guerisons": 4,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 26.67,
+      "TauxInfection": 73.33
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Liechtenstein",
+      "Infection": 79,
+      "Deces": 1,
+      "Guerisons": 55,
+      "TauxDeces": 1.27,
+      "TauxGuerison": 69.62,
+      "TauxInfection": 29.11
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Sri Lanka",
+      "Infection": 217,
+      "Deces": 7,
+      "Guerisons": 56,
+      "TauxDeces": 3.23,
+      "TauxGuerison": 25.81,
+      "TauxInfection": 70.97
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Libéria",
+      "Infection": 59,
+      "Deces": 6,
+      "Guerisons": 4,
+      "TauxDeces": 10.17,
+      "TauxGuerison": 6.78,
+      "TauxInfection": 83.05
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Lituanie",
+      "Infection": 1062,
+      "Deces": 24,
+      "Guerisons": 101,
+      "TauxDeces": 2.26,
+      "TauxGuerison": 9.51,
+      "TauxInfection": 88.23
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Luxembourg",
+      "Infection": 3292,
+      "Deces": 69,
+      "Guerisons": 500,
+      "TauxDeces": 2.1,
+      "TauxGuerison": 15.19,
+      "TauxInfection": 82.72
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Lettonie",
+      "Infection": 655,
+      "Deces": 5,
+      "Guerisons": 16,
+      "TauxDeces": 0.76,
+      "TauxGuerison": 2.44,
+      "TauxInfection": 96.79
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Libye",
+      "Infection": 26,
+      "Deces": 1,
+      "Guerisons": 9,
+      "TauxDeces": 3.85,
+      "TauxGuerison": 34.62,
+      "TauxInfection": 61.54
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Maroc",
+      "Infection": 1763,
+      "Deces": 126,
+      "Guerisons": 203,
+      "TauxDeces": 7.15,
+      "TauxGuerison": 11.51,
+      "TauxInfection": 81.34
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Monaco",
+      "Infection": 93,
+      "Deces": 1,
+      "Guerisons": 6,
+      "TauxDeces": 1.08,
+      "TauxGuerison": 6.45,
+      "TauxInfection": 92.47
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Moldavie",
+      "Infection": 1712,
+      "Deces": 35,
+      "Guerisons": 107,
+      "TauxDeces": 2.04,
+      "TauxGuerison": 6.25,
+      "TauxInfection": 91.71
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Montenegro",
+      "Infection": 274,
+      "Deces": 3,
+      "Guerisons": 5,
+      "TauxDeces": 1.09,
+      "TauxGuerison": 1.82,
+      "TauxInfection": 97.08
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Saint Martin",
+      "Infection": 32,
+      "Deces": 2,
+      "Guerisons": 11,
+      "TauxDeces": 6.25,
+      "TauxGuerison": 34.38,
+      "TauxInfection": 59.38
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Madagascar",
+      "Infection": 106,
+      "Deces": 0,
+      "Guerisons": 21,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 19.81,
+      "TauxInfection": 80.19
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Macédoine",
+      "Infection": 854,
+      "Deces": 38,
+      "Guerisons": 44,
+      "TauxDeces": 4.45,
+      "TauxGuerison": 5.15,
+      "TauxInfection": 90.4
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Mali",
+      "Infection": 123,
+      "Deces": 10,
+      "Guerisons": 26,
+      "TauxDeces": 8.13,
+      "TauxGuerison": 21.14,
+      "TauxInfection": 70.73
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Birmanie",
+      "Infection": 62,
+      "Deces": 4,
+      "Guerisons": 2,
+      "TauxDeces": 6.45,
+      "TauxGuerison": 3.23,
+      "TauxInfection": 90.32
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Mongolie",
+      "Infection": 17,
+      "Deces": 0,
+      "Guerisons": 4,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 23.53,
+      "TauxInfection": 76.47
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Macao",
+      "Infection": 45,
+      "Deces": 0,
+      "Guerisons": 13,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 28.89,
+      "TauxInfection": 71.11
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Martinique",
+      "Infection": 157,
+      "Deces": 6,
+      "Guerisons": 50,
+      "TauxDeces": 3.82,
+      "TauxGuerison": 31.85,
+      "TauxInfection": 64.33
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Mauritanie",
+      "Infection": 7,
+      "Deces": 1,
+      "Guerisons": 2,
+      "TauxDeces": 14.29,
+      "TauxGuerison": 28.57,
+      "TauxInfection": 57.14
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Malte",
+      "Infection": 384,
+      "Deces": 3,
+      "Guerisons": 44,
+      "TauxDeces": 0.78,
+      "TauxGuerison": 11.46,
+      "TauxInfection": 87.76
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Maurice",
+      "Infection": 324,
+      "Deces": 9,
+      "Guerisons": 42,
+      "TauxDeces": 2.78,
+      "TauxGuerison": 12.96,
+      "TauxInfection": 84.26
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Maldives",
+      "Infection": 20,
+      "Deces": 0,
+      "Guerisons": 14,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 70.0,
+      "TauxInfection": 30.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Malawi",
+      "Infection": 16,
+      "Deces": 2,
+      "Guerisons": 0,
+      "TauxDeces": 12.5,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 87.5
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Mexique",
+      "Infection": 4661,
+      "Deces": 296,
+      "Guerisons": 1843,
+      "TauxDeces": 6.35,
+      "TauxGuerison": 39.54,
+      "TauxInfection": 54.11
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Malaisie",
+      "Infection": 4817,
+      "Deces": 77,
+      "Guerisons": 2276,
+      "TauxDeces": 1.6,
+      "TauxGuerison": 47.25,
+      "TauxInfection": 51.15
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Mozambique",
+      "Infection": 21,
+      "Deces": 0,
+      "Guerisons": 2,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 9.52,
+      "TauxInfection": 90.48
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Namibie",
+      "Infection": 16,
+      "Deces": 0,
+      "Guerisons": 3,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 18.75,
+      "TauxInfection": 81.25
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Nouvelle-Calédonie",
+      "Infection": 18,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 5.56,
+      "TauxInfection": 94.44
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Niger",
+      "Infection": 529,
+      "Deces": 12,
+      "Guerisons": 75,
+      "TauxDeces": 2.27,
+      "TauxGuerison": 14.18,
+      "TauxInfection": 83.55
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Nigéria",
+      "Infection": 343,
+      "Deces": 10,
+      "Guerisons": 91,
+      "TauxDeces": 2.92,
+      "TauxGuerison": 26.53,
+      "TauxInfection": 70.55
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Nicaragua",
+      "Infection": 9,
+      "Deces": 1,
+      "Guerisons": 4,
+      "TauxDeces": 11.11,
+      "TauxGuerison": 44.44,
+      "TauxInfection": 44.44
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Pays-Bas",
+      "Infection": 26710,
+      "Deces": 2833,
+      "Guerisons": 295,
+      "TauxDeces": 10.61,
+      "TauxGuerison": 1.1,
+      "TauxInfection": 88.29
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Norvège",
+      "Infection": 6603,
+      "Deces": 134,
+      "Guerisons": 32,
+      "TauxDeces": 2.03,
+      "TauxGuerison": 0.48,
+      "TauxInfection": 97.49
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Népal",
+      "Infection": 14,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 7.14,
+      "TauxInfection": 92.86
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Nouvelle-Zélande",
+      "Infection": 1349,
+      "Deces": 5,
+      "Guerisons": 546,
+      "TauxDeces": 0.37,
+      "TauxGuerison": 40.47,
+      "TauxInfection": 59.15
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Oman",
+      "Infection": 727,
+      "Deces": 4,
+      "Guerisons": 124,
+      "TauxDeces": 0.55,
+      "TauxGuerison": 17.06,
+      "TauxInfection": 82.39
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Panama",
+      "Infection": 3400,
+      "Deces": 87,
+      "Guerisons": 29,
+      "TauxDeces": 2.56,
+      "TauxGuerison": 0.85,
+      "TauxInfection": 96.59
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Pérou",
+      "Infection": 9784,
+      "Deces": 216,
+      "Guerisons": 2642,
+      "TauxDeces": 2.21,
+      "TauxGuerison": 27.0,
+      "TauxInfection": 70.79
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Polynésie Française",
+      "Infection": 55,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Papouasie-Nouvelle-Guinée",
+      "Infection": 2,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Philippines",
+      "Infection": 4932,
+      "Deces": 315,
+      "Guerisons": 242,
+      "TauxDeces": 6.39,
+      "TauxGuerison": 4.91,
+      "TauxInfection": 88.71
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Pakistan",
+      "Infection": 5496,
+      "Deces": 93,
+      "Guerisons": 1095,
+      "TauxDeces": 1.69,
+      "TauxGuerison": 19.92,
+      "TauxInfection": 78.38
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Pologne",
+      "Infection": 6934,
+      "Deces": 245,
+      "Guerisons": 487,
+      "TauxDeces": 3.53,
+      "TauxGuerison": 7.02,
+      "TauxInfection": 89.44
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Palestine",
+      "Infection": 308,
+      "Deces": 2,
+      "Guerisons": 58,
+      "TauxDeces": 0.65,
+      "TauxGuerison": 18.83,
+      "TauxInfection": 80.52
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Portugal",
+      "Infection": 16934,
+      "Deces": 535,
+      "Guerisons": 277,
+      "TauxDeces": 3.16,
+      "TauxGuerison": 1.64,
+      "TauxInfection": 95.2
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Paraguay",
+      "Infection": 147,
+      "Deces": 6,
+      "Guerisons": 22,
+      "TauxDeces": 4.08,
+      "TauxGuerison": 14.97,
+      "TauxInfection": 80.95
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Qatar",
+      "Infection": 3231,
+      "Deces": 7,
+      "Guerisons": 334,
+      "TauxDeces": 0.22,
+      "TauxGuerison": 10.34,
+      "TauxInfection": 89.45
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Réunion",
+      "Infection": 391,
+      "Deces": 0,
+      "Guerisons": 40,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 10.23,
+      "TauxInfection": 89.77
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Roumanie",
+      "Infection": 6633,
+      "Deces": 331,
+      "Guerisons": 914,
+      "TauxDeces": 4.99,
+      "TauxGuerison": 13.78,
+      "TauxInfection": 81.23
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Serbie",
+      "Infection": 4054,
+      "Deces": 85,
+      "Guerisons": 0,
+      "TauxDeces": 2.1,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 97.9
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Fédération de Russie",
+      "Infection": 18328,
+      "Deces": 148,
+      "Guerisons": 1470,
+      "TauxDeces": 0.81,
+      "TauxGuerison": 8.02,
+      "TauxInfection": 91.17
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Rwanda",
+      "Infection": 127,
+      "Deces": 0,
+      "Guerisons": 42,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 33.07,
+      "TauxInfection": 66.93
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Arabie Saoudite",
+      "Infection": 4934,
+      "Deces": 65,
+      "Guerisons": 805,
+      "TauxDeces": 1.32,
+      "TauxGuerison": 16.32,
+      "TauxInfection": 82.37
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Seychelles",
+      "Infection": 11,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Soudan",
+      "Infection": 29,
+      "Deces": 4,
+      "Guerisons": 4,
+      "TauxDeces": 13.79,
+      "TauxGuerison": 13.79,
+      "TauxInfection": 72.41
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Suède",
+      "Infection": 10948,
+      "Deces": 919,
+      "Guerisons": 381,
+      "TauxDeces": 8.39,
+      "TauxGuerison": 3.48,
+      "TauxInfection": 88.13
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Singapour",
+      "Infection": 2918,
+      "Deces": 9,
+      "Guerisons": 586,
+      "TauxDeces": 0.31,
+      "TauxGuerison": 20.08,
+      "TauxInfection": 79.61
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Slovénie",
+      "Infection": 1212,
+      "Deces": 55,
+      "Guerisons": 152,
+      "TauxDeces": 4.54,
+      "TauxGuerison": 12.54,
+      "TauxInfection": 82.92
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Slovaquie",
+      "Infection": 769,
+      "Deces": 2,
+      "Guerisons": 107,
+      "TauxDeces": 0.26,
+      "TauxGuerison": 13.91,
+      "TauxInfection": 85.83
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Sierra Leone",
+      "Infection": 10,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Saint-Marin",
+      "Infection": 356,
+      "Deces": 35,
+      "Guerisons": 53,
+      "TauxDeces": 9.83,
+      "TauxGuerison": 14.89,
+      "TauxInfection": 75.28
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Sénégal",
+      "Infection": 291,
+      "Deces": 2,
+      "Guerisons": 178,
+      "TauxDeces": 0.69,
+      "TauxGuerison": 61.17,
+      "TauxInfection": 38.14
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Somalie",
+      "Infection": 60,
+      "Deces": 2,
+      "Guerisons": 2,
+      "TauxDeces": 3.33,
+      "TauxGuerison": 3.33,
+      "TauxInfection": 93.33
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Suriname",
+      "Infection": 10,
+      "Deces": 1,
+      "Guerisons": 6,
+      "TauxDeces": 10.0,
+      "TauxGuerison": 60.0,
+      "TauxInfection": 30.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Soudan du sud",
+      "Infection": 4,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Sao Tomé-et-Principe",
+      "Infection": 4,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "El Salvador",
+      "Infection": 137,
+      "Deces": 6,
+      "Guerisons": 22,
+      "TauxDeces": 4.38,
+      "TauxGuerison": 16.06,
+      "TauxInfection": 79.56
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Syrie",
+      "Infection": 25,
+      "Deces": 2,
+      "Guerisons": 5,
+      "TauxDeces": 8.0,
+      "TauxGuerison": 20.0,
+      "TauxInfection": 72.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Eswatini",
+      "Infection": 15,
+      "Deces": 0,
+      "Guerisons": 7,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 46.67,
+      "TauxInfection": 53.33
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Tchad",
+      "Infection": 23,
+      "Deces": 0,
+      "Guerisons": 2,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 8.7,
+      "TauxInfection": 91.3
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Togo",
+      "Infection": 77,
+      "Deces": 3,
+      "Guerisons": 29,
+      "TauxDeces": 3.9,
+      "TauxGuerison": 37.66,
+      "TauxInfection": 58.44
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Thaïlande",
+      "Infection": 2579,
+      "Deces": 40,
+      "Guerisons": 1288,
+      "TauxDeces": 1.55,
+      "TauxGuerison": 49.94,
+      "TauxInfection": 48.51
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Timor-Leste",
+      "Infection": 4,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 25.0,
+      "TauxInfection": 75.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Tunisie",
+      "Infection": 726,
+      "Deces": 34,
+      "Guerisons": 43,
+      "TauxDeces": 4.68,
+      "TauxGuerison": 5.92,
+      "TauxInfection": 89.39
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Turquie",
+      "Infection": 61049,
+      "Deces": 1296,
+      "Guerisons": 3957,
+      "TauxDeces": 2.12,
+      "TauxGuerison": 6.48,
+      "TauxInfection": 91.4
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Trinité-et-Tobago",
+      "Infection": 113,
+      "Deces": 8,
+      "Guerisons": 16,
+      "TauxDeces": 7.08,
+      "TauxGuerison": 14.16,
+      "TauxInfection": 78.76
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Taïwan",
+      "Infection": 393,
+      "Deces": 6,
+      "Guerisons": 109,
+      "TauxDeces": 1.53,
+      "TauxGuerison": 27.74,
+      "TauxInfection": 70.74
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Tanzanie",
+      "Infection": 49,
+      "Deces": 3,
+      "Guerisons": 7,
+      "TauxDeces": 6.12,
+      "TauxGuerison": 14.29,
+      "TauxInfection": 79.59
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Ukraine",
+      "Infection": 3102,
+      "Deces": 93,
+      "Guerisons": 97,
+      "TauxDeces": 3.0,
+      "TauxGuerison": 3.13,
+      "TauxInfection": 93.87
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Ouganda",
+      "Infection": 54,
+      "Deces": 0,
+      "Guerisons": 7,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 12.96,
+      "TauxInfection": 87.04
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "États-Unis",
+      "Infection": 580619,
+      "Deces": 23529,
+      "Guerisons": 43482,
+      "TauxDeces": 4.05,
+      "TauxGuerison": 7.49,
+      "TauxInfection": 88.46
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Uruguay",
+      "Infection": 480,
+      "Deces": 8,
+      "Guerisons": 231,
+      "TauxDeces": 1.67,
+      "TauxGuerison": 48.12,
+      "TauxInfection": 50.21
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Ouzbékistan",
+      "Infection": 998,
+      "Deces": 4,
+      "Guerisons": 85,
+      "TauxDeces": 0.4,
+      "TauxGuerison": 8.52,
+      "TauxInfection": 91.08
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Vatican",
+      "Infection": 8,
+      "Deces": 0,
+      "Guerisons": 2,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 25.0,
+      "TauxInfection": 75.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "St-Vincent / Grenadines",
+      "Infection": 12,
+      "Deces": 0,
+      "Guerisons": 1,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 8.33,
+      "TauxInfection": 91.67
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Venezuela",
+      "Infection": 189,
+      "Deces": 9,
+      "Guerisons": 110,
+      "TauxDeces": 4.76,
+      "TauxGuerison": 58.2,
+      "TauxInfection": 37.04
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Viet Nam",
+      "Infection": 265,
+      "Deces": 0,
+      "Guerisons": 146,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 55.09,
+      "TauxInfection": 44.91
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Kosovo",
+      "Infection": 283,
+      "Deces": 7,
+      "Guerisons": 58,
+      "TauxDeces": 2.47,
+      "TauxGuerison": 20.49,
+      "TauxInfection": 77.03
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Yémen",
+      "Infection": 1,
+      "Deces": 0,
+      "Guerisons": 0,
+      "TauxDeces": 0.0,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 100.0
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Mayotte",
+      "Infection": 207,
+      "Deces": 3,
+      "Guerisons": 59,
+      "TauxDeces": 1.45,
+      "TauxGuerison": 28.5,
+      "TauxInfection": 70.05
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Afrique du Sud",
+      "Infection": 2272,
+      "Deces": 27,
+      "Guerisons": 410,
+      "TauxDeces": 1.19,
+      "TauxGuerison": 18.05,
+      "TauxInfection": 80.77
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Zambie",
+      "Infection": 45,
+      "Deces": 2,
+      "Guerisons": 30,
+      "TauxDeces": 4.44,
+      "TauxGuerison": 66.67,
+      "TauxInfection": 28.89
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Zimbabwe",
+      "Infection": 17,
+      "Deces": 3,
+      "Guerisons": 0,
+      "TauxDeces": 17.65,
+      "TauxGuerison": 0.0,
+      "TauxInfection": 82.35
+    },
+    {
+      "Date": "2020-04-13T00:00:00",
+      "Pays": "Autres",
+      "Infection": 721,
+      "Deces": 13,
+      "Guerisons": 619,
+      "TauxDeces": 1.8,
+      "TauxGuerison": 85.85,
+      "TauxInfection": 12.34
+    },
+    {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Andorre",
       "Infection": 638,
@@ -756,12 +6693,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Émirats Arabes Unis",
-      "Infection": 3736,
-      "Deces": 20,
-      "Guerisons": 588,
-      "TauxDeces": 0.54,
-      "TauxGuerison": 15.74,
-      "TauxInfection": 83.73
+      "Infection": 4123,
+      "Deces": 22,
+      "Guerisons": 680,
+      "TauxDeces": 0.53,
+      "TauxGuerison": 16.49,
+      "TauxInfection": 82.97
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -856,22 +6793,22 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Bosnie-Herzégovine",
-      "Infection": 1000,
-      "Deces": 38,
+      "Infection": 1009,
+      "Deces": 39,
       "Guerisons": 193,
-      "TauxDeces": 3.8,
-      "TauxGuerison": 19.3,
-      "TauxInfection": 76.9
+      "TauxDeces": 3.87,
+      "TauxGuerison": 19.13,
+      "TauxInfection": 77.01
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Barbade",
-      "Infection": 68,
+      "Infection": 71,
       "Deces": 4,
       "Guerisons": 11,
-      "TauxDeces": 5.88,
-      "TauxGuerison": 16.18,
-      "TauxInfection": 77.94
+      "TauxDeces": 5.63,
+      "TauxGuerison": 15.49,
+      "TauxInfection": 78.87
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -896,12 +6833,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Burkina Faso",
-      "Infection": 484,
+      "Infection": 497,
       "Deces": 27,
-      "Guerisons": 155,
-      "TauxDeces": 5.58,
-      "TauxGuerison": 32.02,
-      "TauxInfection": 62.4
+      "Guerisons": 161,
+      "TauxDeces": 5.43,
+      "TauxGuerison": 32.39,
+      "TauxInfection": 62.17
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -916,12 +6853,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Bahreïn",
-      "Infection": 1087,
+      "Infection": 1136,
       "Deces": 6,
-      "Guerisons": 557,
-      "TauxDeces": 0.55,
-      "TauxGuerison": 51.24,
-      "TauxInfection": 48.21
+      "Guerisons": 558,
+      "TauxDeces": 0.53,
+      "TauxGuerison": 49.12,
+      "TauxInfection": 50.35
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -976,12 +6913,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Brésil",
-      "Infection": 21042,
-      "Deces": 1144,
+      "Infection": 22192,
+      "Deces": 1223,
       "Guerisons": 173,
-      "TauxDeces": 5.44,
-      "TauxGuerison": 0.82,
-      "TauxInfection": 93.74
+      "TauxDeces": 5.51,
+      "TauxGuerison": 0.78,
+      "TauxInfection": 93.71
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1026,22 +6963,22 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Belize",
-      "Infection": 13,
+      "Infection": 14,
       "Deces": 2,
       "Guerisons": 0,
-      "TauxDeces": 15.38,
+      "TauxDeces": 14.29,
       "TauxGuerison": 0.0,
-      "TauxInfection": 84.62
+      "TauxInfection": 85.71
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Canada",
-      "Infection": 23717,
-      "Deces": 675,
-      "Guerisons": 6650,
-      "TauxDeces": 2.85,
-      "TauxGuerison": 28.04,
-      "TauxInfection": 69.11
+      "Infection": 24299,
+      "Deces": 713,
+      "Guerisons": 7123,
+      "TauxDeces": 2.93,
+      "TauxGuerison": 29.31,
+      "TauxInfection": 67.75
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1076,32 +7013,32 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Suisse",
-      "Infection": 25328,
-      "Deces": 1089,
-      "Guerisons": 12100,
-      "TauxDeces": 4.3,
-      "TauxGuerison": 47.77,
-      "TauxInfection": 47.93
+      "Infection": 25415,
+      "Deces": 1106,
+      "Guerisons": 12700,
+      "TauxDeces": 4.35,
+      "TauxGuerison": 49.97,
+      "TauxInfection": 45.68
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Côte d'Ivoire",
-      "Infection": 533,
-      "Deces": 4,
-      "Guerisons": 58,
-      "TauxDeces": 0.75,
-      "TauxGuerison": 10.88,
-      "TauxInfection": 88.37
+      "Infection": 574,
+      "Deces": 5,
+      "Guerisons": 85,
+      "TauxDeces": 0.87,
+      "TauxGuerison": 14.81,
+      "TauxInfection": 84.32
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Chili",
       "Infection": 7213,
-      "Deces": 73,
+      "Deces": 80,
       "Guerisons": 2059,
-      "TauxDeces": 1.01,
+      "TauxDeces": 1.11,
       "TauxGuerison": 28.55,
-      "TauxInfection": 70.44
+      "TauxInfection": 70.35
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1126,32 +7063,32 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Colombie",
-      "Infection": 2709,
-      "Deces": 100,
-      "Guerisons": 214,
-      "TauxDeces": 3.69,
-      "TauxGuerison": 7.9,
-      "TauxInfection": 88.41
+      "Infection": 2776,
+      "Deces": 109,
+      "Guerisons": 270,
+      "TauxDeces": 3.93,
+      "TauxGuerison": 9.73,
+      "TauxInfection": 86.35
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Costa Rica",
-      "Infection": 577,
+      "Infection": 595,
       "Deces": 3,
-      "Guerisons": 49,
-      "TauxDeces": 0.52,
-      "TauxGuerison": 8.49,
-      "TauxInfection": 90.99
+      "Guerisons": 56,
+      "TauxDeces": 0.5,
+      "TauxGuerison": 9.41,
+      "TauxInfection": 90.08
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Cuba",
-      "Infection": 620,
-      "Deces": 16,
-      "Guerisons": 77,
-      "TauxDeces": 2.58,
-      "TauxGuerison": 12.42,
-      "TauxInfection": 85.0
+      "Infection": 669,
+      "Deces": 18,
+      "Guerisons": 92,
+      "TauxDeces": 2.69,
+      "TauxGuerison": 13.75,
+      "TauxInfection": 83.56
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1166,32 +7103,32 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Chypre",
-      "Infection": 616,
-      "Deces": 10,
-      "Guerisons": 61,
-      "TauxDeces": 1.62,
-      "TauxGuerison": 9.9,
-      "TauxInfection": 88.47
+      "Infection": 633,
+      "Deces": 11,
+      "Guerisons": 65,
+      "TauxDeces": 1.74,
+      "TauxGuerison": 10.27,
+      "TauxInfection": 87.99
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "République Tchèque",
-      "Infection": 5905,
-      "Deces": 132,
-      "Guerisons": 422,
-      "TauxDeces": 2.24,
-      "TauxGuerison": 7.15,
-      "TauxInfection": 90.62
+      "Infection": 5991,
+      "Deces": 138,
+      "Guerisons": 464,
+      "TauxDeces": 2.3,
+      "TauxGuerison": 7.74,
+      "TauxInfection": 89.95
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Allemagne",
-      "Infection": 125834,
-      "Deces": 2886,
-      "Guerisons": 57400,
-      "TauxDeces": 2.29,
-      "TauxGuerison": 45.62,
-      "TauxInfection": 52.09
+      "Infection": 127854,
+      "Deces": 3022,
+      "Guerisons": 60300,
+      "TauxDeces": 2.36,
+      "TauxGuerison": 47.16,
+      "TauxInfection": 50.47
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1218,40 +7155,40 @@
       "Pays": "Dominique",
       "Infection": 16,
       "Deces": 0,
-      "Guerisons": 5,
+      "Guerisons": 8,
       "TauxDeces": 0.0,
-      "TauxGuerison": 31.25,
-      "TauxInfection": 68.75
+      "TauxGuerison": 50.0,
+      "TauxInfection": 50.0
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "République Dominicaine",
-      "Infection": 2759,
-      "Deces": 135,
-      "Guerisons": 108,
-      "TauxDeces": 4.89,
-      "TauxGuerison": 3.91,
-      "TauxInfection": 91.19
+      "Infection": 2967,
+      "Deces": 173,
+      "Guerisons": 131,
+      "TauxDeces": 5.83,
+      "TauxGuerison": 4.42,
+      "TauxInfection": 89.75
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Algérie",
-      "Infection": 1825,
-      "Deces": 275,
-      "Guerisons": 460,
-      "TauxDeces": 15.07,
-      "TauxGuerison": 25.21,
-      "TauxInfection": 59.73
+      "Infection": 1914,
+      "Deces": 293,
+      "Guerisons": 591,
+      "TauxDeces": 15.31,
+      "TauxGuerison": 30.88,
+      "TauxInfection": 53.81
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Équateur",
-      "Infection": 7257,
-      "Deces": 315,
-      "Guerisons": 411,
-      "TauxDeces": 4.34,
-      "TauxGuerison": 5.66,
-      "TauxInfection": 90.0
+      "Infection": 7466,
+      "Deces": 333,
+      "Guerisons": 501,
+      "TauxDeces": 4.46,
+      "TauxGuerison": 6.71,
+      "TauxInfection": 88.83
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1266,12 +7203,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Égypte",
-      "Infection": 1939,
-      "Deces": 146,
-      "Guerisons": 426,
-      "TauxDeces": 7.53,
-      "TauxGuerison": 21.97,
-      "TauxInfection": 70.5
+      "Infection": 2065,
+      "Deces": 159,
+      "Guerisons": 589,
+      "TauxDeces": 7.7,
+      "TauxGuerison": 28.52,
+      "TauxInfection": 63.78
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1296,12 +7233,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Espagne",
-      "Infection": 166019,
-      "Deces": 16972,
+      "Infection": 166831,
+      "Deces": 17209,
       "Guerisons": 62391,
-      "TauxDeces": 10.22,
-      "TauxGuerison": 37.58,
-      "TauxInfection": 52.2
+      "TauxDeces": 10.32,
+      "TauxGuerison": 37.4,
+      "TauxInfection": 52.29
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1346,12 +7283,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "France",
-      "Infection": 129655,
-      "Deces": 13832,
-      "Guerisons": 26391,
-      "TauxDeces": 10.67,
-      "TauxGuerison": 20.35,
-      "TauxInfection": 68.98
+      "Infection": 132592,
+      "Deces": 14393,
+      "Guerisons": 27186,
+      "TauxDeces": 10.86,
+      "TauxGuerison": 20.5,
+      "TauxInfection": 68.64
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1366,10 +7303,10 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Royaume-Uni",
-      "Infection": 85044,
+      "Infection": 85077,
       "Deces": 10629,
-      "Guerisons": 541,
-      "TauxDeces": 12.5,
+      "Guerisons": 542,
+      "TauxDeces": 12.49,
       "TauxGuerison": 0.64,
       "TauxInfection": 86.87
     },
@@ -1386,12 +7323,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Géorgie",
-      "Infection": 252,
+      "Infection": 257,
       "Deces": 3,
-      "Guerisons": 63,
-      "TauxDeces": 1.19,
-      "TauxGuerison": 25.0,
-      "TauxInfection": 73.81
+      "Guerisons": 67,
+      "TauxDeces": 1.17,
+      "TauxGuerison": 26.07,
+      "TauxInfection": 72.76
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1406,12 +7343,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Ghana",
-      "Infection": 408,
+      "Infection": 566,
       "Deces": 8,
       "Guerisons": 4,
-      "TauxDeces": 1.96,
-      "TauxGuerison": 0.98,
-      "TauxInfection": 97.06
+      "TauxDeces": 1.41,
+      "TauxGuerison": 0.71,
+      "TauxInfection": 97.88
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1476,12 +7413,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Guatemala",
-      "Infection": 153,
-      "Deces": 3,
+      "Infection": 155,
+      "Deces": 5,
       "Guerisons": 19,
-      "TauxDeces": 1.96,
-      "TauxGuerison": 12.42,
-      "TauxInfection": 85.62
+      "TauxDeces": 3.23,
+      "TauxGuerison": 12.26,
+      "TauxInfection": 84.52
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1566,42 +7503,42 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Irlande",
-      "Infection": 8928,
-      "Deces": 320,
+      "Infection": 9655,
+      "Deces": 334,
       "Guerisons": 25,
-      "TauxDeces": 3.58,
-      "TauxGuerison": 0.28,
-      "TauxInfection": 96.14
+      "TauxDeces": 3.46,
+      "TauxGuerison": 0.26,
+      "TauxInfection": 96.28
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Israël",
-      "Infection": 10878,
+      "Infection": 11145,
       "Deces": 103,
-      "Guerisons": 1388,
-      "TauxDeces": 0.95,
-      "TauxGuerison": 12.76,
-      "TauxInfection": 86.29
+      "Guerisons": 1627,
+      "TauxDeces": 0.92,
+      "TauxGuerison": 14.6,
+      "TauxInfection": 84.48
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Inde",
-      "Infection": 8504,
-      "Deces": 289,
-      "Guerisons": 972,
-      "TauxDeces": 3.4,
-      "TauxGuerison": 11.43,
-      "TauxInfection": 85.17
+      "Infection": 9205,
+      "Deces": 331,
+      "Guerisons": 1080,
+      "TauxDeces": 3.6,
+      "TauxGuerison": 11.73,
+      "TauxInfection": 84.67
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Iraq",
-      "Infection": 1318,
-      "Deces": 72,
-      "Guerisons": 601,
-      "TauxDeces": 5.46,
-      "TauxGuerison": 45.6,
-      "TauxInfection": 48.94
+      "Infection": 1352,
+      "Deces": 76,
+      "Guerisons": 640,
+      "TauxDeces": 5.62,
+      "TauxGuerison": 47.34,
+      "TauxInfection": 47.04
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1626,12 +7563,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Italie",
-      "Infection": 152271,
-      "Deces": 19468,
-      "Guerisons": 32534,
-      "TauxDeces": 12.79,
-      "TauxGuerison": 21.37,
-      "TauxInfection": 65.85
+      "Infection": 156363,
+      "Deces": 19899,
+      "Guerisons": 34211,
+      "TauxDeces": 12.73,
+      "TauxGuerison": 21.88,
+      "TauxInfection": 65.39
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1646,12 +7583,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Jordanie",
-      "Infection": 381,
+      "Infection": 389,
       "Deces": 7,
-      "Guerisons": 177,
-      "TauxDeces": 1.84,
-      "TauxGuerison": 46.46,
-      "TauxInfection": 51.71
+      "Guerisons": 201,
+      "TauxDeces": 1.8,
+      "TauxGuerison": 51.67,
+      "TauxInfection": 46.53
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1678,10 +7615,10 @@
       "Pays": "Kirghizistan",
       "Infection": 377,
       "Deces": 5,
-      "Guerisons": 44,
+      "Guerisons": 54,
       "TauxDeces": 1.33,
-      "TauxGuerison": 11.67,
-      "TauxInfection": 87.0
+      "TauxGuerison": 14.32,
+      "TauxInfection": 84.35
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1726,12 +7663,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Kazakhstan",
-      "Infection": 911,
+      "Infection": 951,
       "Deces": 10,
       "Guerisons": 99,
-      "TauxDeces": 1.1,
-      "TauxGuerison": 10.87,
-      "TauxInfection": 88.04
+      "TauxDeces": 1.05,
+      "TauxGuerison": 10.41,
+      "TauxInfection": 88.54
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1748,10 +7685,10 @@
       "Pays": "Liban",
       "Infection": 630,
       "Deces": 20,
-      "Guerisons": 77,
+      "Guerisons": 80,
       "TauxDeces": 3.17,
-      "TauxGuerison": 12.22,
-      "TauxInfection": 84.6
+      "TauxGuerison": 12.7,
+      "TauxInfection": 84.13
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1776,12 +7713,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Sri Lanka",
-      "Infection": 203,
+      "Infection": 210,
       "Deces": 7,
-      "Guerisons": 55,
-      "TauxDeces": 3.45,
-      "TauxGuerison": 27.09,
-      "TauxInfection": 69.46
+      "Guerisons": 56,
+      "TauxDeces": 3.33,
+      "TauxGuerison": 26.67,
+      "TauxInfection": 70.0
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1806,12 +7743,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Luxembourg",
-      "Infection": 3270,
-      "Deces": 62,
+      "Infection": 3281,
+      "Deces": 66,
       "Guerisons": 500,
-      "TauxDeces": 1.9,
-      "TauxGuerison": 15.29,
-      "TauxInfection": 82.81
+      "TauxDeces": 2.01,
+      "TauxGuerison": 15.24,
+      "TauxInfection": 82.75
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1828,30 +7765,30 @@
       "Pays": "Libye",
       "Infection": 25,
       "Deces": 1,
-      "Guerisons": 8,
+      "Guerisons": 9,
       "TauxDeces": 4.0,
-      "TauxGuerison": 32.0,
-      "TauxInfection": 64.0
+      "TauxGuerison": 36.0,
+      "TauxInfection": 60.0
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Maroc",
-      "Infection": 1617,
-      "Deces": 113,
-      "Guerisons": 153,
-      "TauxDeces": 6.99,
-      "TauxGuerison": 9.46,
-      "TauxInfection": 83.55
+      "Infection": 1661,
+      "Deces": 118,
+      "Guerisons": 177,
+      "TauxDeces": 7.1,
+      "TauxGuerison": 10.66,
+      "TauxInfection": 82.24
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Monaco",
-      "Infection": 92,
+      "Infection": 93,
       "Deces": 1,
-      "Guerisons": 5,
-      "TauxDeces": 1.09,
-      "TauxGuerison": 5.43,
-      "TauxInfection": 93.48
+      "Guerisons": 6,
+      "TauxDeces": 1.08,
+      "TauxGuerison": 6.45,
+      "TauxInfection": 92.47
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1866,12 +7803,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Montenegro",
-      "Infection": 267,
+      "Infection": 272,
       "Deces": 3,
       "Guerisons": 5,
-      "TauxDeces": 1.12,
-      "TauxGuerison": 1.87,
-      "TauxInfection": 97.0
+      "TauxDeces": 1.1,
+      "TauxGuerison": 1.84,
+      "TauxInfection": 97.06
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1916,12 +7853,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Birmanie",
-      "Infection": 38,
-      "Deces": 3,
+      "Infection": 41,
+      "Deces": 4,
       "Guerisons": 2,
-      "TauxDeces": 7.89,
-      "TauxGuerison": 5.26,
-      "TauxInfection": 86.84
+      "TauxDeces": 9.76,
+      "TauxGuerison": 4.88,
+      "TauxInfection": 85.37
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -1988,10 +7925,10 @@
       "Pays": "Maldives",
       "Infection": 20,
       "Deces": 0,
-      "Guerisons": 13,
+      "Guerisons": 14,
       "TauxDeces": 0.0,
-      "TauxGuerison": 65.0,
-      "TauxInfection": 35.0
+      "TauxGuerison": 70.0,
+      "TauxInfection": 30.0
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -2056,22 +7993,22 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Niger",
-      "Infection": 491,
-      "Deces": 11,
-      "Guerisons": 41,
-      "TauxDeces": 2.24,
-      "TauxGuerison": 8.35,
-      "TauxInfection": 89.41
+      "Infection": 529,
+      "Deces": 12,
+      "Guerisons": 75,
+      "TauxDeces": 2.27,
+      "TauxGuerison": 14.18,
+      "TauxInfection": 83.55
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Nigéria",
-      "Infection": 318,
+      "Infection": 323,
       "Deces": 10,
-      "Guerisons": 70,
-      "TauxDeces": 3.14,
-      "TauxGuerison": 22.01,
-      "TauxInfection": 74.84
+      "Guerisons": 85,
+      "TauxDeces": 3.1,
+      "TauxGuerison": 26.32,
+      "TauxInfection": 70.59
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -2088,20 +8025,20 @@
       "Pays": "Pays-Bas",
       "Infection": 25746,
       "Deces": 2747,
-      "Guerisons": 291,
+      "Guerisons": 295,
       "TauxDeces": 10.67,
-      "TauxGuerison": 1.13,
-      "TauxInfection": 88.2
+      "TauxGuerison": 1.15,
+      "TauxInfection": 88.18
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Norvège",
-      "Infection": 6485,
-      "Deces": 124,
+      "Infection": 6525,
+      "Deces": 128,
       "Guerisons": 32,
-      "TauxDeces": 1.91,
+      "TauxDeces": 1.96,
       "TauxGuerison": 0.49,
-      "TauxInfection": 97.59
+      "TauxInfection": 97.55
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -2127,11 +8064,11 @@
       "Date": "2020-04-12T00:00:00",
       "Pays": "Oman",
       "Infection": 599,
-      "Deces": 3,
+      "Deces": 4,
       "Guerisons": 109,
-      "TauxDeces": 0.5,
+      "TauxDeces": 0.67,
       "TauxGuerison": 18.2,
-      "TauxInfection": 81.3
+      "TauxInfection": 81.14
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -2146,17 +8083,17 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Pérou",
-      "Infection": 6848,
-      "Deces": 181,
-      "Guerisons": 1739,
-      "TauxDeces": 2.64,
-      "TauxGuerison": 25.39,
-      "TauxInfection": 71.96
+      "Infection": 7519,
+      "Deces": 193,
+      "Guerisons": 1798,
+      "TauxDeces": 2.57,
+      "TauxGuerison": 23.91,
+      "TauxInfection": 73.52
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Polynésie Française",
-      "Infection": 51,
+      "Infection": 53,
       "Deces": 0,
       "Guerisons": 0,
       "TauxDeces": 0.0,
@@ -2186,32 +8123,32 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Pakistan",
-      "Infection": 5170,
-      "Deces": 88,
-      "Guerisons": 1026,
-      "TauxDeces": 1.7,
-      "TauxGuerison": 19.85,
-      "TauxInfection": 78.45
+      "Infection": 5230,
+      "Deces": 91,
+      "Guerisons": 1028,
+      "TauxDeces": 1.74,
+      "TauxGuerison": 19.66,
+      "TauxInfection": 78.6
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Pologne",
       "Infection": 6674,
       "Deces": 232,
-      "Guerisons": 375,
+      "Guerisons": 439,
       "TauxDeces": 3.48,
-      "TauxGuerison": 5.62,
-      "TauxInfection": 90.91
+      "TauxGuerison": 6.58,
+      "TauxInfection": 89.95
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Palestine",
-      "Infection": 268,
+      "Infection": 290,
       "Deces": 2,
       "Guerisons": 58,
-      "TauxDeces": 0.75,
-      "TauxGuerison": 21.64,
-      "TauxInfection": 77.61
+      "TauxDeces": 0.69,
+      "TauxGuerison": 20.0,
+      "TauxInfection": 79.31
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -2246,32 +8183,32 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Réunion",
-      "Infection": 388,
+      "Infection": 389,
       "Deces": 0,
       "Guerisons": 40,
       "TauxDeces": 0.0,
-      "TauxGuerison": 10.31,
-      "TauxInfection": 89.69
+      "TauxGuerison": 10.28,
+      "TauxInfection": 89.72
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Roumanie",
       "Infection": 6300,
-      "Deces": 306,
+      "Deces": 316,
       "Guerisons": 852,
-      "TauxDeces": 4.86,
+      "TauxDeces": 5.02,
       "TauxGuerison": 13.52,
-      "TauxInfection": 81.62
+      "TauxInfection": 81.46
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Serbie",
-      "Infection": 3380,
-      "Deces": 74,
+      "Infection": 3630,
+      "Deces": 80,
       "Guerisons": 0,
-      "TauxDeces": 2.19,
+      "TauxDeces": 2.2,
       "TauxGuerison": 0.0,
-      "TauxInfection": 97.81
+      "TauxInfection": 97.8
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -2286,12 +8223,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Rwanda",
-      "Infection": 120,
+      "Infection": 126,
       "Deces": 0,
-      "Guerisons": 18,
+      "Guerisons": 25,
       "TauxDeces": 0.0,
-      "TauxGuerison": 15.0,
-      "TauxInfection": 85.0
+      "TauxGuerison": 19.84,
+      "TauxInfection": 80.16
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -2336,12 +8273,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Singapour",
-      "Infection": 2299,
+      "Infection": 2532,
       "Deces": 8,
-      "Guerisons": 528,
-      "TauxDeces": 0.35,
-      "TauxGuerison": 22.97,
-      "TauxInfection": 76.69
+      "Guerisons": 560,
+      "TauxDeces": 0.32,
+      "TauxGuerison": 22.12,
+      "TauxInfection": 77.57
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -2396,12 +8333,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Somalie",
-      "Infection": 21,
+      "Infection": 25,
       "Deces": 1,
       "Guerisons": 2,
-      "TauxDeces": 4.76,
-      "TauxGuerison": 9.52,
-      "TauxInfection": 85.71
+      "TauxDeces": 4.0,
+      "TauxGuerison": 8.0,
+      "TauxInfection": 88.0
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -2506,32 +8443,32 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Tunisie",
-      "Infection": 685,
-      "Deces": 28,
+      "Infection": 707,
+      "Deces": 31,
       "Guerisons": 43,
-      "TauxDeces": 4.09,
-      "TauxGuerison": 6.28,
-      "TauxInfection": 89.64
+      "TauxDeces": 4.38,
+      "TauxGuerison": 6.08,
+      "TauxInfection": 89.53
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Turquie",
-      "Infection": 52167,
-      "Deces": 1101,
-      "Guerisons": 2965,
-      "TauxDeces": 2.11,
-      "TauxGuerison": 5.68,
-      "TauxInfection": 92.21
+      "Infection": 56956,
+      "Deces": 1198,
+      "Guerisons": 3446,
+      "TauxDeces": 2.1,
+      "TauxGuerison": 6.05,
+      "TauxInfection": 91.85
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Trinité-et-Tobago",
       "Infection": 113,
       "Deces": 8,
-      "Guerisons": 12,
+      "Guerisons": 16,
       "TauxDeces": 7.08,
-      "TauxGuerison": 10.62,
-      "TauxInfection": 82.3
+      "TauxGuerison": 14.16,
+      "TauxInfection": 78.76
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -2566,42 +8503,42 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Ouganda",
-      "Infection": 53,
+      "Infection": 54,
       "Deces": 0,
       "Guerisons": 4,
       "TauxDeces": 0.0,
-      "TauxGuerison": 7.55,
-      "TauxInfection": 92.45
+      "TauxGuerison": 7.41,
+      "TauxInfection": 92.59
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "États-Unis",
-      "Infection": 530830,
-      "Deces": 20646,
-      "Guerisons": 32314,
-      "TauxDeces": 3.89,
-      "TauxGuerison": 6.09,
-      "TauxInfection": 90.02
+      "Infection": 555313,
+      "Deces": 22020,
+      "Guerisons": 32988,
+      "TauxDeces": 3.97,
+      "TauxGuerison": 5.94,
+      "TauxInfection": 90.09
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Uruguay",
-      "Infection": 501,
+      "Infection": 480,
       "Deces": 7,
-      "Guerisons": 224,
-      "TauxDeces": 1.4,
-      "TauxGuerison": 44.71,
-      "TauxInfection": 53.89
+      "Guerisons": 231,
+      "TauxDeces": 1.46,
+      "TauxGuerison": 48.12,
+      "TauxInfection": 50.42
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Ouzbékistan",
-      "Infection": 833,
+      "Infection": 865,
       "Deces": 4,
-      "Guerisons": 65,
-      "TauxDeces": 0.48,
-      "TauxGuerison": 7.8,
-      "TauxInfection": 91.72
+      "Guerisons": 66,
+      "TauxDeces": 0.46,
+      "TauxGuerison": 7.63,
+      "TauxInfection": 91.91
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -2626,22 +8563,22 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Venezuela",
-      "Infection": 175,
+      "Infection": 181,
       "Deces": 9,
       "Guerisons": 93,
-      "TauxDeces": 5.14,
-      "TauxGuerison": 53.14,
-      "TauxInfection": 41.71
+      "TauxDeces": 4.97,
+      "TauxGuerison": 51.38,
+      "TauxInfection": 43.65
     },
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Viet Nam",
-      "Infection": 260,
+      "Infection": 262,
       "Deces": 0,
       "Guerisons": 144,
       "TauxDeces": 0.0,
-      "TauxGuerison": 55.38,
-      "TauxInfection": 44.62
+      "TauxGuerison": 54.96,
+      "TauxInfection": 45.04
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -2676,12 +8613,12 @@
     {
       "Date": "2020-04-12T00:00:00",
       "Pays": "Afrique du Sud",
-      "Infection": 2028,
+      "Infection": 2173,
       "Deces": 25,
       "Guerisons": 410,
-      "TauxDeces": 1.23,
-      "TauxGuerison": 20.22,
-      "TauxInfection": 78.55
+      "TauxDeces": 1.15,
+      "TauxGuerison": 18.87,
+      "TauxInfection": 79.98
     },
     {
       "Date": "2020-04-12T00:00:00",
@@ -22608,7 +28545,7 @@
       "Pays": "Chine",
       "Infection": 81555,
       "Deces": 3312,
-      "Guerisons": 76248,
+      "Guerisons": 76242,
       "TauxDeces": 4.06,
       "TauxGuerison": 93.49,
       "TauxInfection": 2.45
@@ -24528,10 +30465,10 @@
       "Pays": "Chine",
       "Infection": 81524,
       "Deces": 3305,
-      "Guerisons": 76068,
+      "Guerisons": 76062,
       "TauxDeces": 4.05,
-      "TauxGuerison": 93.31,
-      "TauxInfection": 2.64
+      "TauxGuerison": 93.3,
+      "TauxInfection": 2.65
     },
     {
       "Date": "2020-03-31T00:00:00",
@@ -26438,9 +32375,9 @@
       "Pays": "Chine",
       "Infection": 81478,
       "Deces": 3304,
-      "Guerisons": 75790,
+      "Guerisons": 75784,
       "TauxDeces": 4.06,
-      "TauxGuerison": 93.02,
+      "TauxGuerison": 93.01,
       "TauxInfection": 2.93
     },
     {
@@ -28328,7 +34265,7 @@
       "Pays": "Chine",
       "Infection": 81444,
       "Deces": 3300,
-      "Guerisons": 75460,
+      "Guerisons": 75454,
       "TauxDeces": 4.05,
       "TauxGuerison": 92.65,
       "TauxInfection": 3.3
@@ -30218,10 +36155,10 @@
       "Pays": "Chine",
       "Infection": 81401,
       "Deces": 3295,
-      "Guerisons": 74978,
+      "Guerisons": 74972,
       "TauxDeces": 4.05,
-      "TauxGuerison": 92.11,
-      "TauxInfection": 3.84
+      "TauxGuerison": 92.1,
+      "TauxInfection": 3.85
     },
     {
       "Date": "2020-03-28T00:00:00",
@@ -32108,10 +38045,10 @@
       "Pays": "Chine",
       "Infection": 81345,
       "Deces": 3292,
-      "Guerisons": 74600,
+      "Guerisons": 74594,
       "TauxDeces": 4.05,
-      "TauxGuerison": 91.71,
-      "TauxInfection": 4.24
+      "TauxGuerison": 91.7,
+      "TauxInfection": 4.25
     },
     {
       "Date": "2020-03-27T00:00:00",
@@ -33998,10 +39935,10 @@
       "Pays": "Chine",
       "Infection": 81298,
       "Deces": 3287,
-      "Guerisons": 74061,
+      "Guerisons": 74055,
       "TauxDeces": 4.04,
-      "TauxGuerison": 91.1,
-      "TauxInfection": 4.86
+      "TauxGuerison": 91.09,
+      "TauxInfection": 4.87
     },
     {
       "Date": "2020-03-26T00:00:00",
@@ -35878,10 +41815,10 @@
       "Pays": "Chine",
       "Infection": 81221,
       "Deces": 3281,
-      "Guerisons": 73661,
+      "Guerisons": 73655,
       "TauxDeces": 4.04,
-      "TauxGuerison": 90.69,
-      "TauxInfection": 5.27
+      "TauxGuerison": 90.68,
+      "TauxInfection": 5.28
     },
     {
       "Date": "2020-03-25T00:00:00",
@@ -37738,10 +43675,10 @@
       "Pays": "Chine",
       "Infection": 81180,
       "Deces": 3277,
-      "Guerisons": 73169,
+      "Guerisons": 73163,
       "TauxDeces": 4.04,
-      "TauxGuerison": 90.13,
-      "TauxInfection": 5.83
+      "TauxGuerison": 90.12,
+      "TauxInfection": 5.84
     },
     {
       "Date": "2020-03-24T00:00:00",

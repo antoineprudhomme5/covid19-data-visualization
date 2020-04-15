@@ -1,5 +1,5 @@
 const fs = require("fs");
-const allData = require("./coronavirus.politologue.com-data-2020-04-11.json");
+const allData = require("./coronavirus.politologue.com.json");
 
 const dataByCountryMap = new Map();
 
