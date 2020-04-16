@@ -14,8 +14,8 @@ healingsSwitchEL.checked = true;
 const countriesEl = document.getElementById("countries");
 countries.forEach((country) => {
   const checkboxEl = document.createElement("input");
-  checkboxEl.type = "checkbox";
-  checkboxEl.name = country;
+  checkboxEl.type = "radio";
+  checkboxEl.name = "country";
   checkboxEl.value = country;
   checkboxEl.className = "country_choice";
 
@@ -28,7 +28,7 @@ countries.forEach((country) => {
 
 document.querySelector(
   `input[value="${defaultCountry}"]`
-).checked = true;
+).checked = "checked";
 
 function buildCountryDatasets(country, colorIndex = 0) {
   const datasets = [];
@@ -62,17 +62,11 @@ function buildCountryDatasets(country, colorIndex = 0) {
   return datasets;
 }
 
-function buildDatasetsForSelectedCountries() {
-  const countriesCheckedEl = Array.from(document.querySelectorAll(
+function buildDatasetsForSelectedCountry() {
+  const countryCheckedEl = document.querySelector(
     'input[class="country_choice"]:checked'
-  ));
-  const countries = countriesCheckedEl.map((el) => el.value);
-  const datasets = [];
-  countries.forEach((country, i) => {
-    buildCountryDatasets(country, i).forEach((countryDataset) => {
-      datasets.push(countryDataset);
-    });
-  });
+  );
+  const datasets = buildCountryDatasets(countryCheckedEl.value);
 
   if (globalDataSwitchEL.checked) {
     if (deathsSwitchEL.checked) {
@@ -104,31 +98,16 @@ const config = {
 
 const myLineChart = new Chart(ctx, config);
 
-function handleSwitchStateChange() {
-  config.data.datasets = buildDatasetsForSelectedCountries();
+function handleChange() {
+  config.data.datasets = buildDatasetsForSelectedCountry();
   myLineChart.update();
 }
 
-globalDataSwitchEL.addEventListener("change", handleSwitchStateChange);
-infectionsSwitchEL.addEventListener("change", handleSwitchStateChange);
-deathsSwitchEL.addEventListener("change", handleSwitchStateChange);
-healingsSwitchEL.addEventListener("change", handleSwitchStateChange);
-
-function handleClickOnCountryCheckbox(el) {
-  const countriesCheckedEl = Array.from(document.querySelectorAll(
-    'input[class="country_choice"]:checked'
-  ));
-  const nbChecked = countriesCheckedEl.length;
-  if (nbChecked === 3) {
-    el.checked = false;
-  } else {
-    config.data.datasets = buildDatasetsForSelectedCountries();
-    myLineChart.update();
-  }
-}
+globalDataSwitchEL.addEventListener("change", handleChange);
+infectionsSwitchEL.addEventListener("change", handleChange);
+deathsSwitchEL.addEventListener("change", handleChange);
+healingsSwitchEL.addEventListener("change", handleChange);
 
 Array.from(document.getElementsByClassName("country_choice")).map((el) => {
-  el.addEventListener("click", (event) => {
-    handleClickOnCountryCheckbox(event.target);
-  });
+  el.addEventListener("click", handleChange);
 });
