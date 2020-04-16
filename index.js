@@ -83,7 +83,13 @@ function buildDatasetsForSelectedCountry() {
   return datasets;
 }
 
-const options = {};
+const options = {
+  elements: {
+    point: {
+        radius: 0
+    }
+  }
+};
 
 const data = {
   labels: xLabels,

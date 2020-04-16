@@ -1,5 +1,6 @@
 const fs = require("fs");
 const allData = require("./coronavirus.politologue.com.json");
+const { countriesFrToEnMap } = require('./countriesTranslation');
 
 const dataByCountryMap = new Map();
 
@@ -14,12 +15,13 @@ const globalData = allData.GlobalData.map((data) => {
 dataByCountryMap.set("global", globalData);
 
 allData.PaysData.forEach((data) => {
-  if (!dataByCountryMap.has(data.Pays)) {
-    dataByCountryMap.set(data.Pays, []);
+  const countryName = countriesFrToEnMap.get(data.Pays);
+  if (!dataByCountryMap.has(countryName)) {
+    dataByCountryMap.set(countryName, []);
   }
-  dataByCountryMap.get(data.Pays).push({
+  dataByCountryMap.get(countryName).push({
     date: data.Date,
-    country: data.Pays,
+    country: countryName,
     infections: data.Infection,
     deaths: data.Deces,
     healings: data.Guerisons,
