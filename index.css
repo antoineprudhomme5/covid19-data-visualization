@@ -114,6 +114,13 @@ ul {
 
 .countries_container h2 {
   margin-left: 20px;
+  margin-bottom: 5px;
+}
+
+.countries_container .sort_info {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  font-size: 12px;
 }
 
 a:link {

@@ -4,7 +4,9 @@ const xLabels = dataByCountry["global"].map(({ date }) =>
   new Date(date).toLocaleDateString()
 );
 
-const countries = Object.keys(dataByCountry).filter((key) => key !== "global");
+const countries = Object.keys(dataByCountry).filter((key) => key !== "global").sort((a, b) => {
+  return dataByCountry[b].length - dataByCountry[a].length
+});
 
 const globalDeathsDataset = {
   label: "Number of deaths in the world",
