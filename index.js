@@ -19,10 +19,14 @@ countries.forEach((country) => {
   checkboxEl.value = country;
   checkboxEl.className = "country_choice";
 
-  const liEl = document.createElement("li");
+  const labelEl = document.createElement("label");
+  const textEl = document.createTextNode(" " + country);
+  labelEl.appendChild(checkboxEl);
+  labelEl.appendChild(textEl);
 
-  liEl.appendChild(checkboxEl);
-  liEl.innerHTML = liEl.innerHTML + country;
+  const liEl = document.createElement("li");
+  liEl.appendChild(labelEl);
+
   countriesEl.appendChild(liEl);
 });
 
